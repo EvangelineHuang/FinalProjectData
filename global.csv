@@ -1,0 +1,451 @@
+year,birthplace_name,birthplace
+2014,US Virgin Islands,78
+2014,Albania,100
+2014,Austria,102
+2014,Belgium,103
+2014,Bulgaria,104
+2014,Czechoslovakia,105
+2014,Denmark,106
+2014,Finland,108
+2014,France,109
+2014,Germany,110
+2014,Greece,116
+2014,Hungary,117
+2014,Ireland,119
+2014,Italy,120
+2014,Netherlands,126
+2014,Norway,127
+2014,Poland,128
+2014,Portugal,129
+2014,Romania,132
+2014,Spain,134
+2014,Sweden,136
+2014,Switzerland,137
+2014,United Kingdom - Not Specified,138
+2014,England,139
+2014,Scotland,140
+2014,Yugoslavia,147
+2014,Czech Republic,148
+2014,Slovakia,149
+2014,Bosnia and Herzegovina,150
+2014,Croatia,151
+2014,Macedonia,152
+2014,Serbia,154
+2014,Latvia,156
+2014,Lithuania,157
+2014,Armenia,158
+2014,Azerbaijan,159
+2014,Belarus,160
+2014,Georgia,161
+2014,Moldova,162
+2014,Russia,163
+2014,Ukraine,164
+2014,USSR,165
+2014,Montenegro,168
+2014,Other Europe - Not Specified,169
+2014,Afghanistan,200
+2014,Bangladesh,202
+2014,Myanmar,205
+2014,Cambodia,206
+2014,China,207
+2014,Cyprus,208
+2014,Hong Kong,209
+2014,India,210
+2014,Indonesia,211
+2014,Iran,212
+2014,Iraq,213
+2014,Israel,214
+2014,Japan,215
+2014,Jordan,216
+2014,Korea,217
+2014,Kazakhstan,218
+2014,Kuwait,222
+2014,Laos,223
+2014,Lebanon,224
+2014,Malaysia,226
+2014,Nepal,229
+2014,Pakistan,231
+2014,Philippines,233
+2014,Saudi Arabia,235
+2014,Singapore,236
+2014,Sri Lanka,238
+2014,Syria,239
+2014,Taiwan,240
+2014,Thailand,242
+2014,Turkey,243
+2014,United Arab Emirates,245
+2014,Uzbekistan,246
+2014,Vietnam,247
+2014,Yemen,248
+2014,Asia,249
+2014,South Central Asia - Not Specified,253
+2014,Other Asia - Not Specified,254
+2014,Bermuda,300
+2014,Canada,301
+2014,Mexico,303
+2014,Belize,310
+2014,Costa Rica,311
+2014,El Salvador,312
+2014,Guatemala,313
+2014,Honduras,314
+2014,Nicaragua,315
+2014,Panama,316
+2014,Antigua & Barbuda,321
+2014,Bahamas,323
+2014,Barbados,324
+2014,Cuba,327
+2014,Dominica,328
+2014,Dominican Republic,329
+2014,Grenada,330
+2014,Haiti,332
+2014,Jamaica,333
+2014,St. Lucia,339
+2014,St. Vincent & the Grenadines,340
+2014,Trinidad & Tobago,341
+2014,Caribbean- Not Specified,344
+2014,Argentina,360
+2014,Bolivia,361
+2014,Brazil,362
+2014,Chile,363
+2014,Colombia,364
+2014,Ecuador,365
+2014,Guyana,368
+2014,Peru,370
+2014,Uruguay,372
+2014,Venezuela,373
+2014,South America,374
+2014,Americas- Not Specified,399
+2014,Algeria,400
+2014,Cameroon,407
+2014,Cape Verde,408
+2014,Congo,412
+2014,Egypt,414
+2014,Ethiopia,416
+2014,Eritrea,417
+2014,Gambia,420
+2014,Ghana,421
+2014,Kenya,427
+2014,Liberia,429
+2014,Libya,430
+2014,Morocco,436
+2014,Nigeria,440
+2014,Senegal,444
+2014,Sierra Leone,447
+2014,South Africa,449
+2014,Sudan,451
+2014,Tanzania,453
+2014,Togo,454
+2014,Uganda,457
+2014,Democratic Republic of Congo (Zaire),459
+2014,Zambia,460
+2014,Zimbabwe,461
+2014,Africa,462
+2014,Eastern Africa- Not Specified,463
+2014,Northern Africa- Not Specified,464
+2014,Western Africa- Not Specified,467
+2014,Other Africa- Not Specified,468
+2014,Australia,501
+2014,Fiji,508
+2014,New Zealand,515
+2014,Tonga,523
+2014,"Other US Island Areas, Oceania, Not Specified or at Sea",554
+2015,Albania,100
+2015,Austria,102
+2015,Belgium,103
+2015,Bulgaria,104
+2015,Denmark,106
+2015,Finland,108
+2015,France,109
+2015,Germany,110
+2015,Greece,116
+2015,Hungary,117
+2015,Iceland,118
+2015,Ireland,119
+2015,Italy,120
+2015,Netherlands,126
+2015,Norway,127
+2015,Poland,128
+2015,Portugal,129
+2015,Romania,132
+2015,Spain,134
+2015,Sweden,136
+2015,Switzerland,137
+2015,United Kingdom - Not Specified,138
+2015,England,139
+2015,Scotland,140
+2015,Yugoslavia,147
+2015,Czech Republic,148
+2015,Slovakia,149
+2015,Bosnia and Herzegovina,150
+2015,Croatia,151
+2015,Macedonia,152
+2015,Serbia,154
+2015,Latvia,156
+2015,Lithuania,157
+2015,Armenia,158
+2015,Azerbaijan,159
+2015,Belarus,160
+2015,Georgia,161
+2015,Moldova,162
+2015,Russia,163
+2015,Ukraine,164
+2015,USSR,165
+2015,Other Europe - Not Specified,169
+2015,Afghanistan,200
+2015,Bangladesh,202
+2015,Bhutan,203
+2015,Myanmar,205
+2015,Cambodia,206
+2015,China,207
+2015,Cyprus,208
+2015,Hong Kong,209
+2015,India,210
+2015,Indonesia,211
+2015,Iran,212
+2015,Iraq,213
+2015,Israel,214
+2015,Japan,215
+2015,Jordan,216
+2015,Korea,217
+2015,Kazakhstan,218
+2015,Kuwait,222
+2015,Laos,223
+2015,Lebanon,224
+2015,Malaysia,226
+2015,Nepal,229
+2015,Pakistan,231
+2015,Philippines,233
+2015,Saudi Arabia,235
+2015,Singapore,236
+2015,Sri Lanka,238
+2015,Syria,239
+2015,Taiwan,240
+2015,Thailand,242
+2015,Turkey,243
+2015,United Arab Emirates,245
+2015,Uzbekistan,246
+2015,Vietnam,247
+2015,Yemen,248
+2015,Asia,249
+2015,South Central Asia - Not Specified,253
+2015,Other Asia - Not Specified,254
+2015,Bermuda,300
+2015,Canada,301
+2015,Mexico,303
+2015,Belize,310
+2015,Costa Rica,311
+2015,El Salvador,312
+2015,Guatemala,313
+2015,Honduras,314
+2015,Nicaragua,315
+2015,Panama,316
+2015,Antigua & Barbuda,321
+2015,Bahamas,323
+2015,Barbados,324
+2015,Cuba,327
+2015,Dominica,328
+2015,Dominican Republic,329
+2015,Grenada,330
+2015,Haiti,332
+2015,Jamaica,333
+2015,St. Lucia,339
+2015,St. Vincent & the Grenadines,340
+2015,Trinidad & Tobago,341
+2015,West Indies,343
+2015,Caribbean- Not Specified,344
+2015,Argentina,360
+2015,Bolivia,361
+2015,Brazil,362
+2015,Chile,363
+2015,Colombia,364
+2015,Ecuador,365
+2015,Guyana,368
+2015,Paraguay,369
+2015,Peru,370
+2015,Uruguay,372
+2015,Venezuela,373
+2015,South America,374
+2015,Algeria,400
+2015,Cameroon,407
+2015,Cape Verde,408
+2015,Congo,412
+2015,Egypt,414
+2015,Ethiopia,416
+2015,Eritrea,417
+2015,Gambia,420
+2015,Ghana,421
+2015,Guinea,423
+2015,Kenya,427
+2015,Liberia,429
+2015,Libya,430
+2015,Morocco,436
+2015,Nigeria,440
+2015,Senegal,444
+2015,Sierra Leone,447
+2015,Somalia,448
+2015,South Africa,449
+2015,Sudan,451
+2015,Tanzania,453
+2015,Togo,454
+2015,Uganda,457
+2015,Democratic Republic of Congo (Zaire),459
+2015,Zambia,460
+2015,Zimbabwe,461
+2015,Africa,462
+2015,Eastern Africa- Not Specified,463
+2015,Western Africa- Not Specified,467
+2015,Other Africa- Not Specified,468
+2015,Australia,501
+2015,Fiji,508
+2015,New Zealand,515
+2015,"Other US Island Areas, Oceania, Not Specified or at Sea",554
+2015,US Virgin Islands,78
+2016,Albania,100
+2016,Austria,102
+2016,Belgium,103
+2016,Bulgaria,104
+2016,Denmark,106
+2016,Finland,108
+2016,France,109
+2016,Germany,110
+2016,Greece,116
+2016,Hungary,117
+2016,Iceland,118
+2016,Ireland,119
+2016,Italy,120
+2016,Netherlands,126
+2016,Norway,127
+2016,Poland,128
+2016,Portugal,129
+2016,Romania,132
+2016,Spain,134
+2016,Sweden,136
+2016,Switzerland,137
+2016,United Kingdom - Not Specified,138
+2016,England,139
+2016,Scotland,140
+2016,Yugoslavia,147
+2016,Czech Republic,148
+2016,Bosnia and Herzegovina,150
+2016,Croatia,151
+2016,Macedonia,152
+2016,Serbia,154
+2016,Latvia,156
+2016,Lithuania,157
+2016,Armenia,158
+2016,Azerbaijan,159
+2016,Belarus,160
+2016,Georgia,161
+2016,Moldova,162
+2016,Russia,163
+2016,Ukraine,164
+2016,USSR,165
+2016,Montenegro,168
+2016,Other Europe - Not Specified,169
+2016,Afghanistan,200
+2016,Bangladesh,202
+2016,Bhutan,203
+2016,Myanmar,205
+2016,Cambodia,206
+2016,China,207
+2016,Cyprus,208
+2016,Hong Kong,209
+2016,India,210
+2016,Indonesia,211
+2016,Iran,212
+2016,Iraq,213
+2016,Israel,214
+2016,Japan,215
+2016,Jordan,216
+2016,Korea,217
+2016,Kazakhstan,218
+2016,Kuwait,222
+2016,Laos,223
+2016,Lebanon,224
+2016,Malaysia,226
+2016,Nepal,229
+2016,Pakistan,231
+2016,Philippines,233
+2016,Saudi Arabia,235
+2016,Singapore,236
+2016,Sri Lanka,238
+2016,Syria,239
+2016,Taiwan,240
+2016,Thailand,242
+2016,Turkey,243
+2016,United Arab Emirates,245
+2016,Uzbekistan,246
+2016,Vietnam,247
+2016,Yemen,248
+2016,Asia,249
+2016,South Central Asia - Not Specified,253
+2016,Other Asia - Not Specified,254
+2016,Bermuda,300
+2016,Canada,301
+2016,Mexico,303
+2016,Belize,310
+2016,Costa Rica,311
+2016,El Salvador,312
+2016,Guatemala,313
+2016,Honduras,314
+2016,Nicaragua,315
+2016,Panama,316
+2016,Antigua & Barbuda,321
+2016,Bahamas,323
+2016,Barbados,324
+2016,Cuba,327
+2016,Dominica,328
+2016,Dominican Republic,329
+2016,Grenada,330
+2016,Haiti,332
+2016,Jamaica,333
+2016,St. Lucia,339
+2016,St. Vincent & the Grenadines,340
+2016,Trinidad & Tobago,341
+2016,West Indies,343
+2016,Caribbean- Not Specified,344
+2016,Argentina,360
+2016,Bolivia,361
+2016,Brazil,362
+2016,Chile,363
+2016,Colombia,364
+2016,Ecuador,365
+2016,Guyana,368
+2016,Peru,370
+2016,Uruguay,372
+2016,Venezuela,373
+2016,South America,374
+2016,Americas- Not Specified,399
+2016,Algeria,400
+2016,Cameroon,407
+2016,Egypt,414
+2016,Ethiopia,416
+2016,Eritrea,417
+2016,Ghana,421
+2016,Kenya,427
+2016,Liberia,429
+2016,Libya,430
+2016,Morocco,436
+2016,Nigeria,440
+2016,Senegal,444
+2016,Sierra Leone,447
+2016,Somalia,448
+2016,South Africa,449
+2016,Sudan,451
+2016,Tanzania,453
+2016,Togo,454
+2016,Uganda,457
+2016,Democratic Republic of Congo (Zaire),459
+2016,Zambia,460
+2016,Zimbabwe,461
+2016,Africa,462
+2016,Eastern Africa- Not Specified,463
+2016,Northern Africa- Not Specified,464
+2016,Western Africa- Not Specified,467
+2016,Other Africa- Not Specified,468
+2016,Australia,501
+2016,Fiji,508
+2016,Marshall Islands,511
+2016,New Zealand,515
+2016,"Other US Island Areas, Oceania, Not Specified or at Sea",554
+2016,US Virgin Islands,78

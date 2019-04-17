@@ -1,0 +1,1167 @@
+year,soc_name,avg_wage,avg_wage_error
+2014,General & operations managers,117232,22547.8
+2014,Compensation & benefits managers,32269.6,6.56E-12
+2014,Human resources managers,117719,19578.2
+2014,Training & development managers,116627,16998.7
+2014,Emergency management directors,37311.7,0
+2014,"Agents & business managers of artists, performers, & athletes",53299.3,45940.5
+2014,"Wholesale & retail buyers, except farm products",50229.4,15015.6
+2014,"Purchasing agents, except wholesale, retail, & farm products",75646.1,18349.5
+2014,"Claims adjusters, appraisers, examiners, & investigators",59778.7,6433.29
+2014,Compliance officers,88299.4,14758
+2014,Cost estimators,88464.1,16336.2
+2014,Human resources workers,72317.3,13565.8
+2014,Logisticians,70118.6,14370.2
+2014,Management analysts,97993.7,5602.93
+2014,"Meeting, convention, & event planners",78239.7,23285.3
+2014,Fundraisers,91586.6,42285.2
+2014,"Compensation, benefits, & job analysis specialists",45918.6,5516.95
+2014,Training & development specialists,84152.9,22051.5
+2014,Market research analysts & marketing specialists,105569,15931.8
+2014,"Business operations specialists, all other",86142,13857.2
+2014,Accountants & auditors,81333.4,10457.6
+2014,Appraisers & assessors of real estate,42450.1,30198.8
+2014,Budget analysts,107455,29043.5
+2014,Credit analysts,55924,19424.1
+2014,Financial analysts,91259.8,18665.3
+2014,Personal financial advisors,86674.1,24087.6
+2014,Insurance underwriters,82551.5,42000.5
+2014,Financial examiners,50421.2,3.78E-12
+2014,Credit counselors & loan officers,88922.9,13930.7
+2014,"Tax examiners & collectors, & revenue agents",84314.7,21709.1
+2014,Tax preparers,47244.6,26402.2
+2014,Other financial specialists,80083.7,20346.3
+2014,Computer & information research scientists,111887,12699.7
+2014,Computer systems analysts,84893,4489.24
+2014,Information security analysts,92122.6,8070.06
+2014,Computer programmers,84442.7,2384.13
+2014,Web developers,67298.8,6429.69
+2014,Database administrators,89814.2,4908.91
+2014,Network & computer systems administrators,72467,3686.51
+2014,Computer network architects,98266.9,6418.96
+2014,Computer support specialists,64007.1,3332.95
+2014,Other Computer Occupations,82832.4,3617.75
+2014,Actuaries,87534.6,64964.9
+2014,Operations research analysts,86444.1,8014.71
+2014,"Architects, except naval",114957,25171.3
+2014,"Surveyors, cartographers, & photogrammetrists",63873,10317.1
+2014,Aerospace engineers,95845.1,15001.5
+2014,Chemical engineers,86100.7,15769.7
+2014,Civil engineers,95357.8,13848.1
+2014,Computer hardware engineers,117171,18879.4
+2014,Electrical & electronics engineers,88442,9161.55
+2014,Environmental engineers,109355,5929.76
+2014,"Industrial engineers, including health & safety",94686.3,15965.4
+2014,Materials engineers,79113.7,9930.92
+2014,Mechanical engineers,80727.6,12529.9
+2014,Drafters,51159,17672.4
+2014,"Engineering technicians, except drafters",63742.3,14442.9
+2014,Surveying & mapping technicians,70529.5,28223.9
+2014,Biological scientists,88633.9,24747.4
+2014,Atmospheric & space scientists,11261.4,1598.62
+2014,Chemists & materials scientists,79498.9,28822.7
+2014,Environmental scientists & geoscientists,102827,38204.8
+2014,Other Physical Scientists,92555.4,17845.1
+2014,Economists,171432,0
+2014,Psychologists,59637.9,30469.2
+2014,Urban & regional planners,50421.2,2.68E-12
+2014,Agricultural & food science technicians,36303.3,0
+2014,Biological technicians,40337,0
+2014,Counselors,55012.8,13303.7
+2014,Social workers,44941.6,7697.65
+2014,Probation officers & correctional treatment specialists,35606.5,10174.5
+2014,Social & human service assistants,56303.2,24229
+2014,Clergy,41372,9722.66
+2014,"Directors, religious activities & education",45949.5,25269.3
+2014,"Religious workers, all other",31669.4,16759.2
+2014,Judicial law clerks,127062,5.24E-11
+2014,Paralegals & legal assistants,50404.7,20882.2
+2014,Miscellaneous legal support workers,70579.4,22341.9
+2014,Postsecondary teachers,50292.9,5108.52
+2014,Preschool & kindergarten teachers,30354.6,12710.7
+2014,Elementary & middle school teachers,48602,5763.95
+2014,Secondary school teachers,47497.8,5851.84
+2014,Special education teachers,70591.8,38647.5
+2014,Other teachers & instructors,50392.7,13672.1
+2014,"Archivists, curators, & museum technicians",43811.3,11453.6
+2014,Librarians,46701.8,8737.73
+2014,Library technicians,23840.5,40139.5
+2014,Teacher assistants,24713.5,6002.79
+2014,Artists & related workers,81925.5,20630.3
+2014,Designers,61790.6,7102.77
+2014,Actors,458833,9.81E-11
+2014,Producers & directors,71631.6,30282.2
+2014,"Athletes, coaches, umpires, & related workers",37128.6,16722.9
+2014,"Musicians, singers, & related workers",38219.8,22301.4
+2014,Announcers,7733.65,4391.53
+2014,"News analysts, reporters & correspondents",41569.6,25147.1
+2014,Public relations specialists,47868.8,38929
+2014,Editors,25337.4,8163.7
+2014,Technical writers,65434.8,11298.1
+2014,Writers & authors,51750.4,15376.2
+2014,Miscellaneous media & communication workers,23217.9,9983.87
+2014,Photographers,93835.3,132587
+2014,"Television, video, & motion picture camera operators & editors",64025.2,35160.3
+2014,Chiropractors,53672.1,12721.7
+2014,Dentists,167507,89167.6
+2014,Dietitians & nutritionists,70589.8,0
+2014,Optometrists,89749.8,7.57E-12
+2014,Pharmacists,88102.6,50469.4
+2014,Physicians & surgeons,193951,42861.5
+2014,Physician assistants,88299.3,9840.67
+2014,Podiatrists,64539.2,2.66E-11
+2014,Occupational therapists,68828.5,38170.9
+2014,Physical therapists,72917.7,30195.7
+2014,Respiratory therapists,68772.7,8293.18
+2014,Speechlanguage pathologists,104610,62252.5
+2014,Registered nurses,66664.9,7540.04
+2014,Nurse anesthetists,61513.9,1.39E-11
+2014,"Health diagnosing & treating practitioners, all other",65547.6,0
+2014,Clinical laboratory technologists & technicians,36583.2,12068.5
+2014,Dental hygienists,102783,13594
+2014,Diagnostic related technologists & technicians,55552.9,25172.2
+2014,Emergency medical technicians & paramedics,78581.5,47785.7
+2014,Health practitioner support technologists & technicians,141632,56282.3
+2014,Licensed practical & licensed vocational nurses,29281.4,9677.52
+2014,Medical records & health information technicians,42396.4,2124.02
+2014,"Opticians, dispensing",82517.9,49396.9
+2014,Miscellaneous health technologists & technicians,49907.8,21544.3
+2014,Other healthcare practitioners & technical Occupations,28334.7,16504.1
+2014,"Nursing, psychiatric, & home health aides",33306.2,14124.8
+2014,Occupational therapy assistants & aides,10084.2,0
+2014,Physical therapist assistants & aides,64051,25724.7
+2014,Massage therapists,50614.5,38644.7
+2014,Dental assistants,282944,209388
+2014,Medical assistants,106984,83113
+2014,Pharmacy aides,35294.9,0
+2014,Veterinary assistants & laboratory animal caretakers,104876,2.07E-11
+2014,Phlebotomists,12911.3,5050.69
+2014,Firstline supervisors of correctional officers,110927,2.00E-11
+2014,Firstline supervisors of police & detectives,79479.7,26829.7
+2014,Firstline supervisors of fire fighting & prevention workers,145005,11893.5
+2014,"Firstline supervisors of protective service workers, all other",111859,31986.1
+2014,Firefighters,67254.8,16824.9
+2014,Fire inspectors,36303.3,0
+2014,"Bailiffs, correctional officers, & jailers",52015.2,8874.93
+2014,Detectives & criminal investigators,105816,21810.1
+2014,Police officers,80379.6,13095.1
+2014,Private detectives & investigators,94212,17897.2
+2014,Security guards & gaming surveillance officers,62708.4,16451.3
+2014,Transportation security screeners,42353.9,7.57E-12
+2014,Chefs & head cooks,35744.7,10053.2
+2014,Firstline supervisors of food preparation & serving workers,30793.7,7100.7
+2014,Cooks,23145.2,4455.95
+2014,Food preparation workers,11706.8,4130.57
+2014,Bartenders,26849.5,8673.22
+2014,"Counter attendants, cafeteria, food concession, & coffee shop",14118,1.89E-12
+2014,Waiters & waitresses,26710.9,7249.75
+2014,"Food servers, nonrestaurant",29799,14526.8
+2014,Dishwashers,7130.67,5146.03
+2014,"Hosts & hostesses, restaurant, lounge, & coffee shop",3529.49,1.51E-12
+2014,Firstline supervisors of housekeeping & janitorial workers,28262.9,9547.73
+2014,"Firstline supervisors of landscaping, lawn service, & groundskeeping workers",60505.5,1.28E-11
+2014,Maids & housekeeping cleaners,17408.3,5584.93
+2014,Pest control workers,38076.6,32398.6
+2014,Grounds maintenance workers,38271.5,10702.6
+2014,Firstline supervisors of personal service workers,49221.3,31382.5
+2014,Animal trainers,11395.2,2.59E-12
+2014,Nonfarm animal caretakers,31682.3,21804.6
+2014,Gaming services workers,37636.6,8215.33
+2014,Miscellaneous entertainment attendants & related workers,5918.93,8347.27
+2014,"Morticians, undertakers, & funeral directors",15126.4,3.48E-12
+2014,Barbers,35294.9,0
+2014,"Hairdressers, hairstylists, & cosmetologists",28814.5,22852.4
+2014,Miscellaneous personal appearance workers,21624.9,11352.6
+2014,"Baggage porters, bellhops, & concierges",35407.6,31045.6
+2014,Tour & travel guides,40444.4,3064.76
+2014,Childcare workers,10639.2,3986.25
+2014,Personal care aides,16680.3,2409.47
+2014,Recreation & fitness workers,39478.4,9042.97
+2014,Residential advisors,33278,0
+2014,Firstline supervisors of retail sales workers,63407.3,9065.96
+2014,Firstline supervisors of nonretail sales workers,122721,18148.7
+2014,Cashiers,21112.9,7356.33
+2014,Counter & rental clerks,5445.5,7.48E-13
+2014,Parts salespersons,8067.4,1.57E-12
+2014,Retail salespersons,51666.2,8478.79
+2014,Advertising sales agents,94081.9,23662.4
+2014,Insurance sales agents,63936.6,18922.9
+2014,"Securities, commodities, & financial services sales agents",143246,43113.6
+2014,Travel agents,41834.9,7375.55
+2014,"Sales representatives, services, all other",132208,21613.1
+2014,"Sales representatives, wholesale & manufacturing",119506,18084.1
+2014,"Models, demonstrators, & product promoters",65651.8,45536.5
+2014,Real estate brokers & sales agents,57608.1,12646.7
+2014,Sales engineers,162356,57725.3
+2014,Telemarketers,13868.4,730.993
+2014,"Doortodoor sales workers, news & street vendors, & related workers",19879.8,16539
+2014,Other Sales Workers,104203,26774.8
+2014,Firstline supervisors of office & administrative support workers,85531,10897
+2014,"Switchboard operators, including answering service",71279.7,30119
+2014,Telephone operators,12250.1,20259.9
+2014,"Communications equipment operators, all other",55499.4,23163.9
+2014,Bill & account collectors,46213.4,8758.31
+2014,Billing & posting clerks,45274.1,7877.32
+2014,"Bookkeeping, accounting, & auditing clerks",49273.6,12819.9
+2014,Payroll & timekeeping clerks,62269.2,19166.7
+2014,Procurement clerks,65547.6,0
+2014,Tellers,22468,3297.84
+2014,Other financial clerks,70977.7,42540.4
+2014,"Court, municipal, & license clerks",41944.8,7796.59
+2014,"Credit authorizers, checkers, & clerks",53081.4,28397.3
+2014,Customer service representatives,46068.8,6249.19
+2014,"Eligibility interviewers, government programs",28384.9,22440.8
+2014,File clerks,22481.1,9260.75
+2014,"Hotel, motel, & resort desk clerks",19929.5,4869.43
+2014,"Interviewers, except eligibility & loan",29700.8,520.805
+2014,"Library assistants, clerical",19306.6,14906.3
+2014,Loan interviewers & clerks,56452.9,5919.7
+2014,"Human resources assistants, except payroll & timekeeping",59129.7,41992.8
+2014,Receptionists & information clerks,27152.8,7370.77
+2014,Reservation & transportation ticket agents & travel clerks,60884.2,18173.6
+2014,"Information & record clerks, all other",59081.3,16057.6
+2014,Cargo & freight agents,36303.3,0
+2014,Couriers & messengers,63105.1,22839.6
+2014,Dispatchers,42754.6,13354.2
+2014,Postal service clerks,65257,16186
+2014,Postal service mail carriers,56440.4,13813
+2014,"Postal service mail sorters, processors, & processing machine operators",43972,9858.22
+2014,"Production, planning, & expediting clerks",60682.6,18415.2
+2014,"Shipping, receiving, & traffic clerks",32789.1,7324.46
+2014,Stock clerks & order fillers,27346.9,7252.55
+2014,"Weighers, measurers, checkers, & samplers, recordkeeping",48449.4,30818
+2014,Secretaries & administrative assistants,35723.3,5855.41
+2014,Computer operators,45594.7,8932.46
+2014,Data entry keyers,41772.3,10905.1
+2014,Word processors & typists,37073.3,7157.59
+2014,Insurance claims & policy processing clerks,28983.4,4242.54
+2014,"Mail clerks & mail machine operators, except postal service",45293.8,5845.45
+2014,"Office clerks, general",30612.5,9725.64
+2014,"Office machine operators, except computer",18151.7,0
+2014,Statistical assistants,60505.5,1.20E-11
+2014,Fishing & hunting workers,29883.1,7068.57
+2014,Forest & conservation workers,76472.2,11242.3
+2014,Firstline supervisors of construction trades & extraction workers,61599.6,33799.4
+2014,Boilermakers,64539.2,1.31E-11
+2014,Carpenters,27528.2,8970.26
+2014,Construction laborers,25271.8,7612.83
+2014,Electricians,50789.1,18396.9
+2014,Glaziers,42247.9,3245.79
+2014,Painters & paperhangers,48207.3,15160.5
+2014,"Pipelayers, plumbers, pipefitters, & steamfitters",53235.5,9154.11
+2014,Roofers,29849.4,5.35E-12
+2014,Sheet metal workers,63530.8,1.23E-11
+2014,Construction & building inspectors,54115.7,38566.2
+2014,Hazardous materials removal workers,32269.6,6.56E-12
+2014,"Explosives workers, ordnance handling experts, & blasters",56471.8,1.10E-11
+2014,Mining machine operators,40337,0
+2014,"Firstline supervisors of mechanics, installers, & repairers",75329.1,19965
+2014,"Computer, automated teller, & office machine repairers",56970.7,5646.89
+2014,Radio & telecommunications equipment installers & repairers,56068.9,10090.8
+2014,"Electric motor, power tool, & related repairers",30252.8,5.01E-12
+2014,"Electronic equipment installers & repairers, motor vehicles",17143.2,0
+2014,Electronic home entertainment equipment installers & repairers,33867.1,36263.9
+2014,Security & fire alarm systems installers,51471.5,15220.4
+2014,Aircraft mechanics & service technicians,46109.5,19866.8
+2014,Automotive body & related repairers,40337,0
+2014,Automotive service technicians & mechanics,29395.5,12987.4
+2014,Heavy vehicle & mobile equipment service technicians & mechanics,70993.8,24044.5
+2014,Small engine mechanics,5546.34,2.78E-12
+2014,"Miscellaneous vehicle & mobile equipment mechanics, installers, & repairers",27800.8,10553.2
+2014,"Heating, air conditioning, & refrigeration mechanics & installers",66672.5,13675.6
+2014,"Maintenance workers, machinery",55463.4,2.06E-11
+2014,Electrical powerline installers & repairers,91843.8,51950
+2014,Telecommunications line installers & repairers,42177,16547.6
+2014,Precision instrument & equipment repairers,25210.6,1.34E-12
+2014,"Maintenance & repair workers, general",61632.1,10942.6
+2014,"Coin, vending, & amusement machine servicers & repairers",28598,8348.18
+2014,Locksmiths & safe repairers,22185.3,1.89E-12
+2014,Firstline supervisors of production & operating workers,76072.8,9094.51
+2014,"Electrical, electronics, & electromechanical assemblers",10769.9,16226.4
+2014,Miscellaneous assemblers & fabricators,40876.4,11203.8
+2014,Bakers,36303.3,0
+2014,"Butchers & other meat, poultry, & fish processing workers",26541.6,10636.4
+2014,Food batchmakers,29994.4,11325.4
+2014,"Food processing workers, all other",74623.5,0
+2014,"Machine tool cutting setters, operators, & tenders, metal & plastic",25769.5,5717.82
+2014,Machinists,46566.3,19621.2
+2014,"Welding, soldering, & brazing workers",25637,9619.39
+2014,Prepress technicians & workers,50421.2,5.35E-12
+2014,Printing press operators,37148,18541.1
+2014,"Tailors, dressmakers, & sewers",20182.5,7507.41
+2014,Upholsterers,14723,2.92E-12
+2014,"Woodworking machine setters, operators, & tenders, except sawing",75631.9,0
+2014,"Power plant operators, distributors, & dispatchers",99305.9,25737
+2014,Stationary engineers & boiler operators,30780.5,21540.5
+2014,Water & wastewater treatment plant & system operators,89023.4,4045.32
+2014,"Crushing, grinding, polishing, mixing, & blending workers",10084.2,0
+2014,"Extruding, forming, pressing, & compacting machine setters, operators, & tenders",69229.8,32765.8
+2014,"Inspectors, testers, sorters, samplers, & weighers",48242.9,7565.71
+2014,Jewelers & precious stone & metal workers,18151.7,0
+2014,"Medical, dental, & ophthalmic laboratory technicians",32855.7,4504.38
+2014,Packaging & filling machine operators & tenders,37888.5,31260
+2014,Photographic process workers & processing machine operators,71809.1,19753.9
+2014,"Molders, shapers, & casters, except metal & plastic",26017.4,4.82E-12
+2014,"Paper goods machine setters, operators, & tenders",69581.3,0
+2014,Helpersproduction workers,8579.31,6148.28
+2014,Supervisors of transportation & material moving workers,42549.8,8671.01
+2014,Aircraft pilots & flight engineers,112922,33584.5
+2014,Air traffic controllers & airfield operations specialists,129466,14077.1
+2014,Flight attendants,64282.8,21771.5
+2014,"Ambulance drivers & attendants, except emergency medical technicians",12101.1,2.50E-12
+2014,Bus drivers,46834.9,20020.7
+2014,Driver/sales workers & truck drivers,46336.5,17202.8
+2014,Taxi drivers & chauffeurs,29449.7,30827.8
+2014,Ship & boat captains & operators,123481,32221.2
+2014,Parking lot attendants,26249.7,9389.69
+2014,"Transportation attendants, except flight attendants",35294.9,0
+2014,Crane & tower operators,26219.1,4.01E-12
+2014,Industrial truck & tractor operators,30000.4,18263.4
+2014,Cleaners of vehicles & equipment,41069.9,21302.4
+2014,"Laborers & freight, stock, & material movers, hand",33756.4,9532.5
+2014,"Packers & packagers, hand",16513.1,6209.67
+2014,Refuse & recyclable material collectors,2722.75,2.37E-13
+2014,Military officer special & tactical operations leaders,70921.9,1168.41
+2014,Firstline enlisted military supervisors,75247.2,14699.8
+2014,Military enlisted tactical operations & air/weapons specialists & crew members,25839.7,15412.6
+2014,"Military, rank not specified",75979.8,10350
+2014,Chief executives & legislators,185074,16822
+2014,Advertising & promotions managers,79868.2,20322.1
+2014,Marketing & sales managers,150727,23758.5
+2014,Public relations & fundraising managers,105838,18679.5
+2014,Administrative services managers,142978,57204.3
+2014,Computer & information systems managers,113850,4022.93
+2014,Financial managers,122417,12288.7
+2014,Industrial production managers,95764.2,23640
+2014,Purchasing managers,89168,11677.5
+2014,"Transportation, storage, & distribution managers",82307.8,16773.6
+2014,"Farmers, ranchers, & other agricultural managers",37858.1,16250.1
+2014,Construction managers,90778.9,18928.3
+2014,Education administrators,80805.4,12547.7
+2014,Architectural & engineering managers,165568,22425.5
+2014,Food service managers,61817.1,11422.8
+2014,Gaming managers,118994,2.00E-11
+2014,Lodging managers,25503.9,12148.6
+2014,Medical & health services managers,102775,24458.9
+2014,Natural sciences managers,138362,21650.3
+2014,"Property, real estate, & community association managers",85870.5,21621.9
+2014,Social & community service managers,65472.9,12885.1
+2014,Miscellaneous managers,121332,5798.7
+2014,"Software developers, applications & systems software",101605,1966.34
+2014,"Miscellaneous mathematical science occupations, including mathematicians & statisticians",88532.1,15974.9
+2014,"Petroleum, mining & geological engineers, including mining safety engineers",98912.1,8110.94
+2014,"Miscellaneous engineers, including nuclear engineers",111047,11158.4
+2014,"Medical scientists, & life scientists, all other",87973.7,21249.7
+2014,"Miscellaneous social scientists, including survey researchers & sociologists",30318.8,14915.2
+2014,Chemical technicians,71201.4,18108.7
+2014,"Geological & petroleum technicians, & nuclear technicians",91910.7,23864
+2014,"Miscellaneous life, physical, & social science technicians, including social science research assistants",45083.9,22263.9
+2014,"Miscellaneous community & social service specialists, including health educators & community health workers",18880.1,7906.3
+2014,"Lawyers, & judges, magistrates, & other judicial workers",128752,22174.2
+2014,"Other education, training, & library workers",43321.8,11183.5
+2014,"Broadcast & sound engineering technicians & radio operators, & media & communication equipment workers, all other",72736.4,27502.4
+2014,"Other therapists, including exercise physiologists",56697.1,9913.49
+2014,Nurse practitioners & nurse midwives,74224.4,41244.8
+2014,"Healthcare support workers, all other, including medical equipment preparers",21277.8,2.99E-12
+2014,Miscellaneous law enforcement workers,80674,0
+2014,"Lifeguards & other recreational, & all other protective service workers",62522.4,1.26E-11
+2014,"Miscellaneous food preparation & serving related workers, including dining room & cafeteria attendants & bartender helpers",25332.6,18309.8
+2014,Janitors & building cleaners,34849.9,20057.1
+2014,Correspondence clerks & order clerks,28235.9,5.35E-12
+2014,"Miscellaneous office & administrative support workers, including desktop publishers",41174.2,7436.31
+2014,"Miscellaneous agricultural workers, including animal breeders",20004.6,1981.48
+2014,"Construction equipment operators except paving, surfacing, & tamping equipment operators",81473,19312.6
+2014,"Miscellaneous extraction workers, including roof bolters & helpers",35395.7,2.68E-12
+2014,"Miscellaneous construction workers, including solar photovoltaic installers, septic tank servicers & sewer pipe cleaners",50421.2,6.56E-12
+2014,"Electrical & electronics repairers, transportation equipment, & industrial & utility",103464,48575.1
+2014,Industrial & refractory machinery mechanics,49490.5,14858
+2014,"Miscellaneous installation, maintenance, & repair workers, including wind turbine service technicians",43346.4,13762.5
+2014,"Miscellaneous metal workers & plastic workers, including multiple machine tool setters",56901.7,22738.6
+2014,"Miscellaneous woodworkers, including model makers & patternmakers",32130.5,41687.5
+2014,"Miscellaneous production workers, including semiconductor processors",63569,42427.7
+2014,"Subway, streetcar, & other rail transportation workers",60505.5,1.91E-11
+2014,"Sailors & marine oilers, & ship engineers",19160.1,1.89E-12
+2014,"Miscellaneous transportation workers, including bridge & lock tenders & traffic technicians",40337,0
+2014,"Conveyor operators & tenders, & hoist & winch operators",65547.6,0
+2014,"Miscellaneous material moving workers, including mine shuttle car operators, & tank car, truck, & ship loaders",7260.66,1.77E-12
+2015,General & operations managers,90042.3,11762.5
+2015,Compensation & benefits managers,95120.1,4.93E-11
+2015,Human resources managers,129337,14721.6
+2015,Training & development managers,76737.4,20200.6
+2015,Emergency management directors,81102.4,7.57E-12
+2015,"Agents & business managers of artists, performers, & athletes",40209.9,16739.2
+2015,"Buyers & purchasing agents, farm products",74093.5,0
+2015,"Wholesale & retail buyers, except farm products",33240.2,24466.6
+2015,"Purchasing agents, except wholesale, retail, & farm products",72136,12870.7
+2015,"Claims adjusters, appraisers, examiners, & investigators",61625.6,9522.46
+2015,Compliance officers,74172.5,19059.5
+2015,Cost estimators,62691,18357.7
+2015,Human resources workers,93505.7,39830.6
+2015,Logisticians,78012.5,19654.4
+2015,Management analysts,108010,9544.35
+2015,"Meeting, convention, & event planners",50161.4,15420.2
+2015,Fundraisers,65869.4,10732
+2015,"Compensation, benefits, & job analysis specialists",62976.7,27795.9
+2015,Training & development specialists,84011.1,11964.1
+2015,Market research analysts & marketing specialists,72672.2,15809.7
+2015,"Business operations specialists, all other",92708.2,16853.9
+2015,Accountants & auditors,72087,7411.56
+2015,Appraisers & assessors of real estate,20025.3,2.68E-12
+2015,Budget analysts,68375.5,23654.6
+2015,Credit analysts,78914.1,26891.6
+2015,Financial analysts,125057,32346.1
+2015,Personal financial advisors,128309,34235.4
+2015,Insurance underwriters,110032,45103.7
+2015,Financial examiners,81998.2,25719.8
+2015,Credit counselors & loan officers,74758.7,15206.5
+2015,"Tax examiners & collectors, & revenue agents",66396.7,10685.2
+2015,Tax preparers,47631.9,29305.1
+2015,Other financial specialists,70656.5,15280.5
+2015,Computer & information research scientists,89464.1,12910.1
+2015,Computer systems analysts,86740.9,3745.05
+2015,Information security analysts,87324.2,7014.04
+2015,Computer programmers,87464,2762.85
+2015,Web developers,67515.8,4726.07
+2015,Database administrators,90830.3,6504.48
+2015,Network & computer systems administrators,72028.4,3049.98
+2015,Computer network architects,100714,5846.29
+2015,Computer support specialists,70392.1,3543.66
+2015,Other Computer Occupations,83247.4,4014.7
+2015,Actuaries,112982,60489.8
+2015,Operations research analysts,91769.5,7710.38
+2015,"Architects, except naval",120973,12520.5
+2015,"Surveyors, cartographers, & photogrammetrists",68322.4,24761.7
+2015,Aerospace engineers,98654,7592.89
+2015,Chemical engineers,48713.2,49878.8
+2015,Civil engineers,84931.4,14832.6
+2015,Computer hardware engineers,98950.2,11120.6
+2015,Electrical & electronics engineers,103880,9881.83
+2015,Environmental engineers,61205.5,21099.8
+2015,"Industrial engineers, including health & safety",89359.1,12157.1
+2015,Materials engineers,96938.4,28955.5
+2015,Mechanical engineers,88009,16619.8
+2015,Drafters,82222,22291.9
+2015,"Engineering technicians, except drafters",60356.7,12106
+2015,Surveying & mapping technicians,20025.3,1.34E-12
+2015,Agricultural & food scientists,56134.4,11236.8
+2015,Biological scientists,61587.3,20477.5
+2015,Atmospheric & space scientists,107943,57860.9
+2015,Chemists & materials scientists,83778.2,18612.1
+2015,Environmental scientists & geoscientists,52141.7,13303.3
+2015,Other Physical Scientists,83901.7,17842.1
+2015,Economists,78603.7,2326.26
+2015,Psychologists,86909.7,57247.2
+2015,Urban & regional planners,72751.2,24271.9
+2015,Counselors,46255.9,8775.55
+2015,Social workers,41525.3,7313.03
+2015,Probation officers & correctional treatment specialists,46570.9,23742
+2015,Social & human service assistants,40507,13351.2
+2015,Clergy,43104,8097.66
+2015,"Directors, religious activities & education",96329.5,60652.4
+2015,"Religious workers, all other",34022.9,14211.6
+2015,Paralegals & legal assistants,59192.2,6623.83
+2015,Miscellaneous legal support workers,99423.6,59939.5
+2015,Postsecondary teachers,61751.9,6987.28
+2015,Preschool & kindergarten teachers,20061.5,10966.3
+2015,Elementary & middle school teachers,48118.6,3172.64
+2015,Secondary school teachers,53602.8,8630.93
+2015,Special education teachers,57909.9,15397.1
+2015,Other teachers & instructors,58916.2,14323.5
+2015,Librarians,55889.7,11715.7
+2015,Library technicians,26637.3,7880.89
+2015,Teacher assistants,22086.2,7349.9
+2015,Artists & related workers,53646,12396.7
+2015,Designers,69384.1,10880
+2015,Producers & directors,97705,27825.2
+2015,"Athletes, coaches, umpires, & related workers",44191.3,25186.3
+2015,"Musicians, singers, & related workers",73071.5,58995.3
+2015,"Entertainers & performers, sports & related workers, all other",92116.3,1.42E-11
+2015,Announcers,265106,349180
+2015,"News analysts, reporters & correspondents",50920.3,20845.5
+2015,Public relations specialists,95067.4,28004.3
+2015,Editors,51921.6,19753.6
+2015,Technical writers,94128.4,38090.2
+2015,Writers & authors,52942.6,22604.8
+2015,Miscellaneous media & communication workers,32233.1,9276.57
+2015,Photographers,14563.8,4828.59
+2015,"Television, video, & motion picture camera operators & editors",41784.4,27915.8
+2015,Chiropractors,87110,1.20E-11
+2015,Dentists,105871,31333.7
+2015,Dietitians & nutritionists,12976.4,9444.62
+2015,Optometrists,116147,2.27E-11
+2015,Pharmacists,100823,19076.7
+2015,Physicians & surgeons,234584,45733
+2015,Physician assistants,97575.8,19328.2
+2015,Occupational therapists,59572.3,15553
+2015,Physical therapists,59337.6,14632.2
+2015,Radiation therapists,95120.1,1.78E-11
+2015,Respiratory therapists,68537.7,15758.9
+2015,Speechlanguage pathologists,34818.4,1950.82
+2015,Veterinarians,168986,17659
+2015,Registered nurses,65588.2,7465.98
+2015,Clinical laboratory technologists & technicians,58560.1,22034.5
+2015,Dental hygienists,62414.6,51080.4
+2015,Diagnostic related technologists & technicians,61723.8,17668
+2015,Emergency medical technicians & paramedics,48448.4,14815.7
+2015,Health practitioner support technologists & technicians,29566.3,7019.21
+2015,Licensed practical & licensed vocational nurses,57906.4,11057.4
+2015,Medical records & health information technicians,57272.7,11689
+2015,"Opticians, dispensing",31370.7,4465.6
+2015,Miscellaneous health technologists & technicians,50052.8,56509
+2015,Other healthcare practitioners & technical Occupations,49441.7,13589.8
+2015,"Nursing, psychiatric, & home health aides",30378.3,7395.17
+2015,Physical therapist assistants & aides,16631.2,6954.42
+2015,Massage therapists,42703.8,27989.9
+2015,Dental assistants,245762,276880
+2015,Medical assistants,35699.5,6736.23
+2015,Veterinary assistants & laboratory animal caretakers,20458.1,8547.36
+2015,Phlebotomists,54879.4,20432.8
+2015,Firstline supervisors of correctional officers,99125.1,5.56E-11
+2015,Firstline supervisors of police & detectives,73532.8,17403.9
+2015,"Firstline supervisors of protective service workers, all other",104745,44217.3
+2015,Firefighters,83679.8,14870.8
+2015,"Bailiffs, correctional officers, & jailers",63113.7,14067.5
+2015,Detectives & criminal investigators,93869,13241
+2015,Police officers,67652.5,10832.5
+2015,Animal control workers,96121.3,5.35E-12
+2015,Private detectives & investigators,82188.6,20116.9
+2015,Security guards & gaming surveillance officers,45025.6,9792.06
+2015,Crossing guards,15481.1,8658.02
+2015,Transportation security screeners,40476.5,8260.06
+2015,Chefs & head cooks,27977.5,7804.69
+2015,Firstline supervisors of food preparation & serving workers,37043.8,10091.8
+2015,Cooks,17343.6,3798.28
+2015,Food preparation workers,11355.8,4099.8
+2015,Bartenders,16390,7711.69
+2015,"Combined food preparation & serving workers, including fast food",9680.26,3547.62
+2015,"Counter attendants, cafeteria, food concession, & coffee shop",18022.8,1.20E-11
+2015,Waiters & waitresses,20562.5,3154.06
+2015,"Food servers, nonrestaurant",5006.32,4.73E-13
+2015,Dishwashers,16420.7,0
+2015,"Hosts & hostesses, restaurant, lounge, & coffee shop",34425.8,67319.6
+2015,Firstline supervisors of housekeeping & janitorial workers,65864.5,47509
+2015,"Firstline supervisors of landscaping, lawn service, & groundskeeping workers",46850.2,25760.7
+2015,Maids & housekeeping cleaners,26603.6,9243.06
+2015,Pest control workers,39764.5,14391.9
+2015,Grounds maintenance workers,17528.6,6450.01
+2015,Firstline supervisors of personal service workers,5223.7,4293.39
+2015,Animal trainers,7008.85,1.57E-12
+2015,Nonfarm animal caretakers,25195.6,9581.61
+2015,Gaming services workers,59706.3,19522.9
+2015,Motion picture projectionists,45056.9,5.35E-12
+2015,"Ushers, lobby attendants, & ticket takers",6007.58,3.26E-12
+2015,Miscellaneous entertainment attendants & related workers,11513.2,8943.94
+2015,"Morticians, undertakers, & funeral directors",30037.9,1.37E-11
+2015,Barbers,25031.6,3.28E-12
+2015,"Hairdressers, hairstylists, & cosmetologists",13334.2,7448.9
+2015,Miscellaneous personal appearance workers,25917.3,6954.4
+2015,"Baggage porters, bellhops, & concierges",47059.4,5.35E-12
+2015,Tour & travel guides,18531.7,4430.74
+2015,Childcare workers,17723.4,6867.73
+2015,Personal care aides,19064.2,6741.96
+2015,Recreation & fitness workers,37456.9,13937.5
+2015,Residential advisors,24433.5,12950.2
+2015,"Personal care & service workers, all other ",3003.79,2.37E-13
+2015,Firstline supervisors of retail sales workers,74023.3,11409.1
+2015,Firstline supervisors of nonretail sales workers,117529,12126.5
+2015,Cashiers,18831.1,4989.69
+2015,Counter & rental clerks,19626.7,2992.02
+2015,Parts salespersons,19024,0
+2015,Retail salespersons,56292.7,15714.5
+2015,Advertising sales agents,102590,26249.5
+2015,Insurance sales agents,70225.1,13926.1
+2015,"Securities, commodities, & financial services sales agents",217228,91977.2
+2015,Travel agents,7604.47,5367.21
+2015,"Sales representatives, services, all other",129032,20972.5
+2015,"Sales representatives, wholesale & manufacturing",101211,15314.7
+2015,"Models, demonstrators, & product promoters",60717.9,23219
+2015,Real estate brokers & sales agents,75364.8,19565.4
+2015,Sales engineers,125817,9761.2
+2015,Telemarketers,18729.2,14531.4
+2015,"Doortodoor sales workers, news & street vendors, & related workers",68086,0
+2015,Other Sales Workers,140042,62104.7
+2015,Firstline supervisors of office & administrative support workers,72953.7,8492.34
+2015,"Switchboard operators, including answering service",24562,16465.2
+2015,"Communications equipment operators, all other",67084.7,0
+2015,Bill & account collectors,34191.6,7900.41
+2015,Billing & posting clerks,54041.7,26440.1
+2015,"Bookkeeping, accounting, & auditing clerks",36305,8846.64
+2015,Payroll & timekeeping clerks,66571.8,32062.6
+2015,Procurement clerks,35044.2,0
+2015,Tellers,27202.3,5876.08
+2015,Other financial clerks,94291.9,31667.5
+2015,"Court, municipal, & license clerks",66278.2,10178.7
+2015,"Credit authorizers, checkers, & clerks",25010.1,24271.5
+2015,Customer service representatives,49580.7,6709.67
+2015,"Eligibility interviewers, government programs",37346.2,13119.1
+2015,File clerks,51701.7,22868.3
+2015,"Hotel, motel, & resort desk clerks",19589.3,12144.4
+2015,"Interviewers, except eligibility & loan",52402,14773.6
+2015,"Library assistants, clerical",22061.1,5291.31
+2015,Loan interviewers & clerks,60260.5,14132.8
+2015,New accounts clerks,45056.9,5.35E-12
+2015,Receptionists & information clerks,38921.5,7230.57
+2015,Reservation & transportation ticket agents & travel clerks,33682.7,12542.2
+2015,"Information & record clerks, all other",90740.4,29238.7
+2015,Cargo & freight agents,8010.11,1.42E-12
+2015,Couriers & messengers,72630.6,48149.3
+2015,Dispatchers,58494.1,18860.7
+2015,"Meter readers, utilities",52291.3,25493
+2015,Postal service clerks,43117.6,10075.9
+2015,Postal service mail carriers,47807.5,7918.99
+2015,"Postal service mail sorters, processors, & processing machine operators",50573.3,2458.35
+2015,"Production, planning, & expediting clerks",39893.1,8187.42
+2015,"Shipping, receiving, & traffic clerks",24724.8,4922.26
+2015,Stock clerks & order fillers,24512.2,5770.86
+2015,"Weighers, measurers, checkers, & samplers, recordkeeping",29490.5,12373.9
+2015,Secretaries & administrative assistants,38336.5,4875.59
+2015,Computer operators,62364.9,12583.3
+2015,Data entry keyers,41409,7762.04
+2015,Word processors & typists,34034.8,14869.9
+2015,Insurance claims & policy processing clerks,55111.2,39081.2
+2015,"Mail clerks & mail machine operators, except postal service",58887.7,30679.5
+2015,"Office clerks, general",33622.1,8531.89
+2015,"Office machine operators, except computer",32040.4,5.68E-12
+2015,Statistical assistants,84403,35271.1
+2015,"Firstline supervisors of farming, fishing, & forestry workers",8010.11,3.40E-12
+2015,"Graders & sorters, agricultural products",12015.2,1.77E-12
+2015,Logging workers,29036.7,5.18E-12
+2015,Firstline supervisors of construction trades & extraction workers,90673.4,14364.1
+2015,Carpenters,37373.6,18637.8
+2015,Construction laborers,28182.5,12841.1
+2015,"Drywall installers, ceiling tile installers, & tapers",24531,3.78E-12
+2015,Electricians,68913.7,33781.9
+2015,Insulation workers,92116.3,1.20E-11
+2015,Painters & paperhangers,26387.8,16826
+2015,"Pipelayers, plumbers, pipefitters, & steamfitters",42631.7,34849.6
+2015,Roofers,49327.4,50916.4
+2015,Sheet metal workers,40050.6,2.33E-11
+2015,Construction & building inspectors,36423.3,28460
+2015,Elevator installers & repairers,89112.5,1.31E-11
+2015,"Explosives workers, ordnance handling experts, & blasters",97085.7,12065.6
+2015,Mining machine operators,69087.2,0
+2015,"Firstline supervisors of mechanics, installers, & repairers",88150.2,30806.3
+2015,"Computer, automated teller, & office machine repairers",52142.5,7486.7
+2015,Radio & telecommunications equipment installers & repairers,52075.1,10537.7
+2015,Avionics technicians,49061.9,0
+2015,"Electric motor, power tool, & related repairers",50063.2,7.08E-12
+2015,Electronic home entertainment equipment installers & repairers,43311.4,3023.59
+2015,Security & fire alarm systems installers,54578.2,11094
+2015,Aircraft mechanics & service technicians,43551.7,24057.2
+2015,Automotive body & related repairers,75094.8,7.57E-12
+2015,Automotive service technicians & mechanics,35542.4,6540.53
+2015,Bus & truck mechanics & diesel engine specialists,51997.4,9533.99
+2015,Heavy vehicle & mobile equipment service technicians & mechanics,50510,19781
+2015,"Miscellaneous vehicle & mobile equipment mechanics, installers, & repairers",61100.7,34840.6
+2015,"Heating, air conditioning, & refrigeration mechanics & installers",24911,14433.1
+2015,Home appliance repairers,50063.2,2.29E-11
+2015,"Maintenance workers, machinery",62078.4,3.03E-11
+2015,Electrical powerline installers & repairers,48692.1,16364.6
+2015,Telecommunications line installers & repairers,52271.6,12379.6
+2015,Precision instrument & equipment repairers,15019,2.59E-12
+2015,"Maintenance & repair workers, general",48116,6850.1
+2015,"Coin, vending, & amusement machine servicers & repairers",36144.2,15033.7
+2015,Riggers,48060.7,8.46E-12
+2015,Firstline supervisors of production & operating workers,89234.2,16971.7
+2015,"Electrical, electronics, & electromechanical assemblers",118169,93171.2
+2015,Miscellaneous assemblers & fabricators,40140.7,12939.9
+2015,Bakers,24460.7,9882.36
+2015,"Butchers & other meat, poultry, & fish processing workers",25921.6,2563.94
+2015,Food batchmakers,25270,21534.2
+2015,"Food processing workers, all other",48346.5,12291.3
+2015,Computer control programmers & operators,99696.7,38485.1
+2015,"Machine tool cutting setters, operators, & tenders, metal & plastic",40050.6,3.78E-12
+2015,Machinists,55090.1,9546.9
+2015,"Welding, soldering, & brazing workers",39032.9,6708.62
+2015,Printing press operators,26601.9,4608.17
+2015,Laundry & drycleaning workers,4806.07,4.73E-13
+2015,"Tailors, dressmakers, & sewers",30037.9,4.44E-12
+2015,Cabinetmakers & bench carpenters,24416.3,17453.6
+2015,Furniture finishers,40050.6,4.64E-12
+2015,"Power plant operators, distributors, & dispatchers",77764.8,28713.8
+2015,Stationary engineers & boiler operators,81469.2,16214.4
+2015,Water & wastewater treatment plant & system operators,65082.2,9.65E-12
+2015,Miscellaneous plant & system operators,85275.3,29552.6
+2015,"Chemical processing machine setters, operators, & tenders",61350,32178.5
+2015,"Crushing, grinding, polishing, mixing, & blending workers",50063.2,5.35E-12
+2015,Cutting workers,27204.9,2708.76
+2015,"Extruding, forming, pressing, & compacting machine setters, operators, & tenders",15019,6.95E-12
+2015,"Inspectors, testers, sorters, samplers, & weighers",68645.5,8346.1
+2015,Jewelers & precious stone & metal workers,60075.8,1.07E-11
+2015,"Medical, dental, & ophthalmic laboratory technicians",82504.2,26911.5
+2015,Packaging & filling machine operators & tenders,18022.8,0
+2015,Painting workers,41992.3,37692.8
+2015,Photographic process workers & processing machine operators,69655.7,14242.5
+2015,Helpersproduction workers,47059.4,8.88E-12
+2015,Supervisors of transportation & material moving workers,62138.8,17807.1
+2015,Aircraft pilots & flight engineers,129224,25682.4
+2015,Air traffic controllers & airfield operations specialists,117651,48556.2
+2015,Flight attendants,41547.9,20002.2
+2015,Bus drivers,49521.5,19195.3
+2015,Driver/sales workers & truck drivers,46798.7,9210.31
+2015,Taxi drivers & chauffeurs,30302.1,8108.55
+2015,"Motor vehicle operators, all other",55069.5,8.03E-12
+2015,Locomotive engineers & operators,116147,2.68E-11
+2015,Railroad conductors & yardmasters,40076.9,25025.3
+2015,Ship & boat captains & operators,115145,4.73E-11
+2015,Parking lot attendants,9011.38,0
+2015,Automotive & watercraft service attendants-,12015.2,2.01E-12
+2015,Transportation inspectors,70088.5,0
+2015,"Transportation attendants, except flight attendants",30037.9,5.01E-12
+2015,Crane & tower operators,74388.8,15284
+2015,Industrial truck & tractor operators,45657.3,14996.9
+2015,Cleaners of vehicles & equipment,26569.2,16281.7
+2015,"Laborers & freight, stock, & material movers, hand",28986.2,8939.61
+2015,"Packers & packagers, hand",23405.1,15537.9
+2015,Military officer special & tactical operations leaders,86239.9,13848.1
+2015,Firstline enlisted military supervisors,70410.8,14224.2
+2015,Military enlisted tactical operations & air/weapons specialists & crew members,59070,15836.4
+2015,"Military, rank not specified",58963.4,8347.81
+2015,Chief executives & legislators,190687,19954.7
+2015,Advertising & promotions managers,49385.3,26030.8
+2015,Marketing & sales managers,122370,22390.9
+2015,Public relations & fundraising managers,77905.3,38350.2
+2015,Administrative services managers,69543.1,19036.7
+2015,Computer & information systems managers,117913,3889.61
+2015,Financial managers,132758,18758
+2015,Industrial production managers,100030,9789.28
+2015,Purchasing managers,100570,29075.5
+2015,"Transportation, storage, & distribution managers",76036.1,30155.2
+2015,"Farmers, ranchers, & other agricultural managers",69146.5,29271.1
+2015,Construction managers,61452.4,16502.6
+2015,Education administrators,70293.4,9639.94
+2015,Architectural & engineering managers,174847,16262.5
+2015,Food service managers,60424.5,14711.8
+2015,Lodging managers,77714.6,46128.1
+2015,Medical & health services managers,113841,23787.9
+2015,Natural sciences managers,113027,24264.5
+2015,"Property, real estate, & community association managers",75194.4,15231.9
+2015,Social & community service managers,68179.8,12777.1
+2015,Miscellaneous managers,125483,4607.12
+2015,"Software developers, applications & systems software",103011,2235.08
+2015,"Miscellaneous mathematical science occupations, including mathematicians & statisticians",126589,31687.4
+2015,Biomedical & agricultural engineers,104332,14732.2
+2015,"Petroleum, mining & geological engineers, including mining safety engineers",135171,0
+2015,"Miscellaneous engineers, including nuclear engineers",116826,8405.09
+2015,"Medical scientists, & life scientists, all other",64030.2,16413.3
+2015,"Miscellaneous social scientists, including survey researchers & sociologists",82086.7,16200.1
+2015,Chemical technicians,109138,5.22E-11
+2015,"Geological & petroleum technicians, & nuclear technicians",58182.9,19059.1
+2015,"Miscellaneous life, physical, & social science technicians, including social science research assistants",47338.7,21663.2
+2015,"Miscellaneous community & social service specialists, including health educators & community health workers",67084.7,0
+2015,"Lawyers, & judges, magistrates, & other judicial workers",130468,15912.7
+2015,"Other education, training, & library workers",54175.1,13997.4
+2015,"Broadcast & sound engineering technicians & radio operators, & media & communication equipment workers, all other",37938.4,23877
+2015,"Other therapists, including exercise physiologists",16242.5,10046.2
+2015,Nurse practitioners & nurse midwives,102687,42880.7
+2015,Miscellaneous law enforcement workers,62078.4,1.36E-11
+2015,"Lifeguards & other recreational, & all other protective service workers",30964.6,16908.7
+2015,"Miscellaneous food preparation & serving related workers, including dining room & cafeteria attendants & bartender helpers",6193.99,5596.01
+2015,Janitors & building cleaners,24823.7,5045.7
+2015,Embalmers & funeral attendants,37046.8,0
+2015,Correspondence clerks & order clerks,49457.6,26356.5
+2015,"Miscellaneous office & administrative support workers, including desktop publishers",36382,5400.99
+2015,"Miscellaneous agricultural workers, including animal breeders",10790.9,6086.27
+2015,"Construction equipment operators except paving, surfacing, & tamping equipment operators",78314.6,12365.4
+2015,"Brickmasons, blockmasons, stonemasons, & reinforcing iron & rebar workers",52065.7,5.35E-12
+2015,"Miscellaneous extraction workers, including roof bolters & helpers",62078.4,1.14E-11
+2015,"Electrical & electronics repairers, transportation equipment, & industrial & utility",50063.2,3.78E-12
+2015,Industrial & refractory machinery mechanics,60855.1,22182.5
+2015,"Miscellaneous installation, maintenance, & repair workers, including wind turbine service technicians",59770.1,16936.2
+2015,"Model makers, patternmakers, & molding machine setters, metal & plastic",37247,2.68E-12
+2015,"Miscellaneous metal workers & plastic workers, including multiple machine tool setters",27007.1,1780.36
+2015,"Miscellaneous textile, apparel, & furnishings workers except upholsterers",22027.8,3.54E-12
+2015,"Miscellaneous production workers, including semiconductor processors",74099.6,38648.8
+2015,"Sailors & marine oilers, & ship engineers",91115,1.20E-11
+2015,"Miscellaneous transportation workers, including bridge & lock tenders & traffic technicians",56070.8,2.68E-11
+2015,"Miscellaneous material moving workers, including mine shuttle car operators, & tank car, truck, & ship loaders",33342.1,0
+2016,General & operations managers,98454.3,19275.5
+2016,Human resources managers,112683,11210.2
+2016,Training & development managers,116126,22891.2
+2016,Emergency management directors,5037.94,3.35E-13
+2016,"Agents & business managers of artists, performers, & athletes",72742.3,47963.1
+2016,"Wholesale & retail buyers, except farm products",32001.7,17535.8
+2016,"Purchasing agents, except wholesale, retail, & farm products",56322.3,13666.5
+2016,"Claims adjusters, appraisers, examiners, & investigators",61252.5,8968.37
+2016,Compliance officers,82074.6,15844
+2016,Cost estimators,57676.7,16457.8
+2016,Human resources workers,86557.5,13479.3
+2016,Logisticians,59647.4,11089.3
+2016,Management analysts,102752,6599.18
+2016,"Meeting, convention, & event planners",47617.8,7909.59
+2016,Fundraisers,55171.9,7506.96
+2016,"Compensation, benefits, & job analysis specialists",73251,13393.6
+2016,Training & development specialists,108648,28352.8
+2016,Market research analysts & marketing specialists,103244,22491.3
+2016,"Business operations specialists, all other",83163.8,11583.8
+2016,Accountants & auditors,84142.6,12741.3
+2016,Appraisers & assessors of real estate,73765.2,11940.5
+2016,Budget analysts,75253.6,6949.05
+2016,Credit analysts,99392.3,127889
+2016,Financial analysts,98282.2,27526.5
+2016,Personal financial advisors,123327,33309.3
+2016,Insurance underwriters,68911,12154.8
+2016,Financial examiners,239483,9243.46
+2016,Credit counselors & loan officers,83867.7,22015.6
+2016,"Tax examiners & collectors, & revenue agents",43976.2,12143.2
+2016,Tax preparers,66994.2,52024.1
+2016,Other financial specialists,130587,87745.6
+2016,Computer & information research scientists,119497,24691.1
+2016,Computer systems analysts,91137.5,5015.81
+2016,Information security analysts,105699,8667.49
+2016,Computer programmers,90741.5,3209.53
+2016,Web developers,76313.1,8151.29
+2016,Database administrators,99120.6,7500.48
+2016,Network & computer systems administrators,80892.8,3092.36
+2016,Computer network architects,109686,7754.88
+2016,Computer support specialists,74449.9,3985.04
+2016,Other Computer Occupations,84420.2,3783.8
+2016,Actuaries,52542.6,15897.6
+2016,Operations research analysts,87693.8,11802.8
+2016,"Architects, except naval",109525,12371.7
+2016,"Surveyors, cartographers, & photogrammetrists",54015.2,24691.8
+2016,Aerospace engineers,122974,15315.5
+2016,Chemical engineers,63174.1,10084.6
+2016,Civil engineers,110983,45048.4
+2016,Computer hardware engineers,100026,11666.1
+2016,Electrical & electronics engineers,100399,13591.9
+2016,Environmental engineers,125948,3.26E-11
+2016,"Industrial engineers, including health & safety",91916.4,6941.66
+2016,Marine engineers & naval architects,141062,0
+2016,Materials engineers,77675.8,11659.6
+2016,Mechanical engineers,92336.8,13610.3
+2016,Drafters,104947,59665.7
+2016,"Engineering technicians, except drafters",64719.6,10220.4
+2016,Surveying & mapping technicians,34258,0
+2016,Agricultural & food scientists,89848.5,120008
+2016,Biological scientists,42916.8,24305.8
+2016,Conservation scientists & foresters,63478,2.78E-11
+2016,Atmospheric & space scientists,120911,2.27E-11
+2016,Chemists & materials scientists,80607,5.35E-12
+2016,Environmental scientists & geoscientists,86681.3,28826.3
+2016,Other Physical Scientists,136331,37532.7
+2016,Economists,172298,1.07E-11
+2016,Psychologists,80908.8,30335.6
+2016,Urban & regional planners,68516,0
+2016,Agricultural & food science technicians,83629.8,5.35E-12
+2016,Counselors,47432.4,9244.53
+2016,Social workers,38411.2,10380.8
+2016,Probation officers & correctional treatment specialists,59963.2,12704.7
+2016,Social & human service assistants,63764.9,30313.4
+2016,Clergy,48282.3,9208.6
+2016,"Directors, religious activities & education",46652.4,11503.7
+2016,"Religious workers, all other",28191.1,23362.9
+2016,Paralegals & legal assistants,78160.7,24018.7
+2016,Miscellaneous legal support workers,60748.9,15851.4
+2016,Postsecondary teachers,66504.7,8110.72
+2016,Preschool & kindergarten teachers,18115.1,5195.08
+2016,Elementary & middle school teachers,49689.1,3389.36
+2016,Secondary school teachers,51962.6,8110.92
+2016,Special education teachers,46419.8,5988.41
+2016,Other teachers & instructors,50574.1,9080.78
+2016,"Archivists, curators, & museum technicians",69164.9,2446.56
+2016,Librarians,44973.7,10170.5
+2016,Library technicians,21691.8,20623.6
+2016,Teacher assistants,14941.6,2997.61
+2016,Artists & related workers,76968.9,20088.5
+2016,Designers,80439.2,12077.5
+2016,Actors,37457.7,4395.71
+2016,Producers & directors,76387.5,14817.7
+2016,"Athletes, coaches, umpires, & related workers",48365.7,24388.6
+2016,Dancers & choreographers,35265.6,2.68E-12
+2016,"Musicians, singers, & related workers",91543.4,145416
+2016,"Entertainers & performers, sports & related workers, all other",146100,0
+2016,Announcers,51311,27587.8
+2016,"News analysts, reporters & correspondents",77932.4,41012.5
+2016,Public relations specialists,108286,43802.8
+2016,Editors,30697.2,15519
+2016,Technical writers,83039.7,13750.7
+2016,Writers & authors,79556.5,24145.3
+2016,Miscellaneous media & communication workers,52621.6,17205.8
+2016,Photographers,27093.7,14984.7
+2016,"Television, video, & motion picture camera operators & editors",62367,15488.7
+2016,Chiropractors,91923.5,61019.4
+2016,Dentists,56546.4,49793.1
+2016,Dietitians & nutritionists,42018.6,14268.4
+2016,Optometrists,94791.2,3200.18
+2016,Pharmacists,110428,20560
+2016,Physicians & surgeons,196298,49427.4
+2016,Physician assistants,116872,38155.8
+2016,Occupational therapists,88539.6,22373.8
+2016,Physical therapists,63364.9,9375.5
+2016,Respiratory therapists,302276,0
+2016,Speechlanguage pathologists,50495.2,22307.5
+2016,Veterinarians,48144.5,48162.7
+2016,Registered nurses,79703.1,26242.9
+2016,"Health diagnosing & treating practitioners, all other",26380.9,4131.79
+2016,Clinical laboratory technologists & technicians,75563.7,29970.7
+2016,Dental hygienists,113601,53097.1
+2016,Diagnostic related technologists & technicians,80616.2,20310.4
+2016,Emergency medical technicians & paramedics,30875.7,10733.1
+2016,Health practitioner support technologists & technicians,25655.3,5247.19
+2016,Licensed practical & licensed vocational nurses,38805.7,6418.6
+2016,Medical records & health information technicians,46607,20374.5
+2016,"Opticians, dispensing",15113.8,2.84E-12
+2016,Miscellaneous health technologists & technicians,59408.4,26477.7
+2016,Other healthcare practitioners & technical Occupations,51825.8,25177.2
+2016,"Nursing, psychiatric, & home health aides",31894,13402.1
+2016,Occupational therapy assistants & aides,45106,4090.75
+2016,Physical therapist assistants & aides,15113.8,2.99E-12
+2016,Massage therapists,15763.3,7443.15
+2016,Medical assistants,39305.8,19427.5
+2016,Medical transcriptionists,37280.8,4.64E-12
+2016,Veterinary assistants & laboratory animal caretakers,29220.1,5.52E-12
+2016,Phlebotomists,25189.7,4.01E-12
+2016,Firstline supervisors of correctional officers,62496,30768.9
+2016,Firstline supervisors of police & detectives,54099.1,25172.1
+2016,Firstline supervisors of fire fighting & prevention workers,67133,23824.6
+2016,"Firstline supervisors of protective service workers, all other",82446.7,41408.4
+2016,Firefighters,60709.6,15114.3
+2016,"Bailiffs, correctional officers, & jailers",40825.6,10242.8
+2016,Detectives & criminal investigators,99895.5,12513
+2016,Police officers,63247.9,5537.68
+2016,Animal control workers,26499.6,1.19E-11
+2016,Private detectives & investigators,81888,23940.8
+2016,Security guards & gaming surveillance officers,41845.6,7222.86
+2016,Crossing guards,105797,1.93E-11
+2016,Transportation security screeners,49268.9,16391.7
+2016,Chefs & head cooks,36060.6,8554.4
+2016,Firstline supervisors of food preparation & serving workers,31249.2,12160
+2016,Cooks,18001.2,3536.36
+2016,Food preparation workers,7679.42,4070.51
+2016,Bartenders,25194.6,5516.21
+2016,"Combined food preparation & serving workers, including fast food",2867.41,1954.62
+2016,"Counter attendants, cafeteria, food concession, & coffee shop",5205.02,2832.45
+2016,Waiters & waitresses,24492.2,5311.92
+2016,"Food servers, nonrestaurant",12091.1,6.20E-12
+2016,Dishwashers,5944.77,1.06E-12
+2016,"Hosts & hostesses, restaurant, lounge, & coffee shop",166252,1.07E-11
+2016,Firstline supervisors of housekeeping & janitorial workers,39667.8,19277.6
+2016,"Firstline supervisors of landscaping, lawn service, & groundskeeping workers",36654.8,11630.9
+2016,Maids & housekeeping cleaners,17243.5,6708.79
+2016,Pest control workers,54131.3,1488.69
+2016,Grounds maintenance workers,86839.6,67863
+2016,Firstline supervisors of gaming workers,43388.7,2260.09
+2016,Firstline supervisors of personal service workers,25248.1,11310.2
+2016,Animal trainers,2015.18,2.77E-13
+2016,Nonfarm animal caretakers,62183.1,65265.7
+2016,Gaming services workers,38587.3,16420.5
+2016,"Ushers, lobby attendants, & ticket takers",14176.5,12656.8
+2016,Miscellaneous entertainment attendants & related workers,147275,161921
+2016,"Morticians, undertakers, & funeral directors",90682.9,0
+2016,Barbers,10075.9,1.34E-12
+2016,"Hairdressers, hairstylists, & cosmetologists",29797.8,17916.9
+2016,Miscellaneous personal appearance workers,23660.3,9614.52
+2016,"Baggage porters, bellhops, & concierges",34908,18315.2
+2016,Tour & travel guides,20686.5,14640
+2016,Childcare workers,15841.5,7002.37
+2016,Personal care aides,19455.2,5187.18
+2016,Recreation & fitness workers,24415.6,10398.3
+2016,Residential advisors,10075.9,2.99E-12
+2016,Firstline supervisors of retail sales workers,87303.9,12493.5
+2016,Firstline supervisors of nonretail sales workers,126935,17370.8
+2016,Cashiers,25501.6,7056.8
+2016,Counter & rental clerks,52952.1,18538.9
+2016,Parts salespersons,14002,2676.45
+2016,Retail salespersons,42525.9,7826.23
+2016,Advertising sales agents,99055.9,40888.1
+2016,Insurance sales agents,73726.6,15940.6
+2016,"Securities, commodities, & financial services sales agents",194614,64604.9
+2016,Travel agents,17505.6,6023.24
+2016,"Sales representatives, services, all other",148069,28610.9
+2016,"Sales representatives, wholesale & manufacturing",121532,21394.5
+2016,"Models, demonstrators, & product promoters",61292.4,35176.3
+2016,Real estate brokers & sales agents,95276.9,32351.1
+2016,Sales engineers,174787,38393.5
+2016,Telemarketers,14106.2,1.89E-12
+2016,"Doortodoor sales workers, news & street vendors, & related workers",56840.5,56785.2
+2016,Other Sales Workers,83359.8,36465.6
+2016,Firstline supervisors of office & administrative support workers,81246.4,9222.25
+2016,"Switchboard operators, including answering service",65493.2,1.17E-11
+2016,Telephone operators,37204.3,51568.1
+2016,Bill & account collectors,37204.7,3432.24
+2016,Billing & posting clerks,48297.7,14100.4
+2016,"Bookkeeping, accounting, & auditing clerks",36305.5,7102.14
+2016,Payroll & timekeeping clerks,40139.2,12728.4
+2016,Procurement clerks,48942.2,30204.6
+2016,Tellers,22400.3,3016.69
+2016,Other financial clerks,103488,52321.9
+2016,Brokerage clerks,35970.9,0
+2016,"Court, municipal, & license clerks",40158.7,34528.5
+2016,"Credit authorizers, checkers, & clerks",83407.2,71097.4
+2016,Customer service representatives,50278.2,6385.22
+2016,"Eligibility interviewers, government programs",62115.6,10353.7
+2016,File clerks,13730.3,10254.1
+2016,"Hotel, motel, & resort desk clerks",14235.9,4674.52
+2016,"Interviewers, except eligibility & loan",39352.4,18166.4
+2016,"Library assistants, clerical",17348.6,3864.5
+2016,Loan interviewers & clerks,51639.3,12485.2
+2016,New accounts clerks,100759,1.07E-11
+2016,"Human resources assistants, except payroll & timekeeping",45194.7,4040.36
+2016,Receptionists & information clerks,24463.1,7320.25
+2016,Reservation & transportation ticket agents & travel clerks,40791.8,10261.3
+2016,"Information & record clerks, all other",67934.6,16117.3
+2016,Cargo & freight agents,48250.2,13531.9
+2016,Couriers & messengers,34199.6,10404.9
+2016,Dispatchers,78772.5,43103.4
+2016,"Meter readers, utilities",44333.9,4.64E-12
+2016,Postal service clerks,40345.6,13204.8
+2016,Postal service mail carriers,83051.6,58209
+2016,"Postal service mail sorters, processors, & processing machine operators",75257.8,16494.8
+2016,"Production, planning, & expediting clerks",80466.9,32550.8
+2016,"Shipping, receiving, & traffic clerks",25826.3,4552.28
+2016,Stock clerks & order fillers,26027.1,5018.81
+2016,"Weighers, measurers, checkers, & samplers, recordkeeping",25189.7,4.01E-12
+2016,Secretaries & administrative assistants,38431.7,6898.2
+2016,Computer operators,61520,7859.84
+2016,Data entry keyers,41683,11974.7
+2016,Word processors & typists,43820.7,14742.9
+2016,Insurance claims & policy processing clerks,36890.8,6746.01
+2016,"Mail clerks & mail machine operators, except postal service",28180.6,33821.7
+2016,"Office clerks, general",35821.4,6641.91
+2016,"Office machine operators, except computer",16121.4,2.68E-12
+2016,Proofreaders & copy markers,40303.5,4.64E-12
+2016,Statistical assistants,68213.9,30220.9
+2016,Logging workers,28020.5,6965.86
+2016,Firstline supervisors of construction trades & extraction workers,81746.9,26527
+2016,Carpenters,39126,12234
+2016,"Carpet, floor, & tile installers & finishers",50379.4,9.27E-12
+2016,"Cement masons, concrete finishers, & terrazzo workers",10075.9,9.46E-13
+2016,Construction laborers,37925.3,14175.5
+2016,Electricians,35282.3,11956.1
+2016,Painters & paperhangers,72394.3,59028.4
+2016,"Pipelayers, plumbers, pipefitters, & steamfitters",50273.4,10816.7
+2016,Plasterers & stucco masons,79599.5,5.35E-12
+2016,Roofers,22066.2,2.68E-12
+2016,Sheet metal workers,50740.8,13908.3
+2016,"Helpers, construction trades",4735.66,1.06E-12
+2016,Elevator installers & repairers,161214,0
+2016,Highway maintenance workers,26005.2,5734.36
+2016,"Explosives workers, ordnance handling experts, & blasters",25189.7,3.54E-12
+2016,Mining machine operators,22166.9,3.78E-12
+2016,"Firstline supervisors of mechanics, installers, & repairers",78332.5,14143.1
+2016,"Computer, automated teller, & office machine repairers",49362.9,5500.06
+2016,Radio & telecommunications equipment installers & repairers,55055.5,8914.25
+2016,Electronic home entertainment equipment installers & repairers,45543,21596
+2016,Security & fire alarm systems installers,39134.4,12170.8
+2016,Aircraft mechanics & service technicians,38000.5,9284.75
+2016,Automotive body & related repairers,95720.9,1.51E-11
+2016,Automotive service technicians & mechanics,46171.7,15221.4
+2016,Bus & truck mechanics & diesel engine specialists,23436.7,8041.72
+2016,Heavy vehicle & mobile equipment service technicians & mechanics,37890.2,4086.29
+2016,"Heating, air conditioning, & refrigeration mechanics & installers",25412.5,15642.9
+2016,Electrical powerline installers & repairers,114077,19678.5
+2016,Telecommunications line installers & repairers,60739.6,9657.79
+2016,Precision instrument & equipment repairers,86572,20941.8
+2016,"Maintenance & repair workers, general",56415.2,14168.2
+2016,"Coin, vending, & amusement machine servicers & repairers",19345.7,3.54E-12
+2016,Locksmiths & safe repairers,32242.8,5.52E-12
+2016,Firstline supervisors of production & operating workers,80010.5,19527.5
+2016,"Aircraft structure, surfaces, rigging, & systems assemblers",63478,1.14E-11
+2016,"Electrical, electronics, & electromechanical assemblers",25848.9,20407.8
+2016,Miscellaneous assemblers & fabricators,36267.8,21213.9
+2016,Bakers,35265.6,2.68E-12
+2016,"Butchers & other meat, poultry, & fish processing workers",25131.1,15728.9
+2016,Food batchmakers,20151.8,3.28E-12
+2016,"Food processing workers, all other",24256.7,1648.21
+2016,Computer control programmers & operators,47655.9,11442.1
+2016,"Extruding & drawing machine setters, operators, & tenders, metal & plastic",42318.7,0
+2016,"Machine tool cutting setters, operators, & tenders, metal & plastic",33855,0
+2016,Machinists,59837.5,27493.3
+2016,"Welding, soldering, & brazing workers",30618.6,12730.4
+2016,Prepress technicians & workers,16606.7,4052.93
+2016,Printing press operators,36531.1,9588.46
+2016,Laundry & drycleaning workers,30227.6,7.57E-12
+2016,"Tailors, dressmakers, & sewers",3620.68,1891.43
+2016,"Textile knitting & weaving machine setters, operators, & tenders",9068.29,0
+2016,"Sawing machine setters, operators, & tenders, wood",15113.8,2.99E-12
+2016,"Power plant operators, distributors, & dispatchers",94477.9,41059.4
+2016,Water & wastewater treatment plant & system operators,23691.4,14939.6
+2016,Miscellaneous plant & system operators,95720.9,1.51E-11
+2016,"Chemical processing machine setters, operators, & tenders",14106.2,2.12E-12
+2016,"Crushing, grinding, polishing, mixing, & blending workers",27204.9,5.18E-12
+2016,"Inspectors, testers, sorters, samplers, & weighers",57563.1,10454.1
+2016,"Medical, dental, & ophthalmic laboratory technicians",14173.4,2325.09
+2016,Packaging & filling machine operators & tenders,17069.6,11521.6
+2016,Painting workers,118918,33611.4
+2016,Photographic process workers & processing machine operators,62449.6,20767.9
+2016,Etchers & engravers,29220.1,3.54E-12
+2016,"Molders, shapers, & casters, except metal & plastic",41750.1,2335.36
+2016,Supervisors of transportation & material moving workers,127743,81469.8
+2016,Aircraft pilots & flight engineers,129575,33224.6
+2016,Air traffic controllers & airfield operations specialists,109291,44823.4
+2016,Flight attendants,29967.2,17528.8
+2016,"Ambulance drivers & attendants, except emergency medical technicians",241821,1.13E-10
+2016,Bus drivers,20820.1,7479.91
+2016,Driver/sales workers & truck drivers,41700.4,5964.23
+2016,Taxi drivers & chauffeurs,38676.8,16695.9
+2016,"Motor vehicle operators, all other",5037.94,8.85E-13
+2016,Railroad conductors & yardmasters,98463.9,19629.4
+2016,Ship & boat captains & operators,25189.7,5.83E-12
+2016,Parking lot attendants,35902.9,29860.4
+2016,Automotive & watercraft service attendants-,22331.6,9462.19
+2016,Crane & tower operators,56016.8,62108.4
+2016,"Dredge, excavating, & loading machine operators",17431.3,0
+2016,Industrial truck & tractor operators,47916.4,32368.1
+2016,Cleaners of vehicles & equipment,21367.6,1734.83
+2016,"Laborers & freight, stock, & material movers, hand",30641.2,7117.21
+2016,"Packers & packagers, hand",16840.7,7042.34
+2016,Military officer special & tactical operations leaders,79688.2,42790.2
+2016,Firstline enlisted military supervisors,86804.3,21603.5
+2016,Military enlisted tactical operations & air/weapons specialists & crew members,57210.5,14383.6
+2016,"Military, rank not specified",63912.2,10426.2
+2016,Chief executives & legislators,192053,16435.4
+2016,Advertising & promotions managers,75449,26173.6
+2016,Marketing & sales managers,119768,14726.1
+2016,Public relations & fundraising managers,82160.8,19523
+2016,Administrative services managers,121648,46002.4
+2016,Computer & information systems managers,127323,4376.75
+2016,Financial managers,111362,11432.8
+2016,Industrial production managers,103217,11757
+2016,Purchasing managers,117968,31295.9
+2016,"Transportation, storage, & distribution managers",99652.1,25751.2
+2016,"Farmers, ranchers, & other agricultural managers",71588.5,35699
+2016,Construction managers,112483,26681.7
+2016,Education administrators,73260.3,6499.33
+2016,Architectural & engineering managers,195916,22494.4
+2016,Food service managers,59799.4,13012.1
+2016,Gaming managers,85681.9,67588.9
+2016,Lodging managers,54169.3,24195.5
+2016,Medical & health services managers,98296.5,19608.2
+2016,"Property, real estate, & community association managers",71126.8,13081.4
+2016,Social & community service managers,48118.2,11520.3
+2016,Miscellaneous managers,122074,4258.69
+2016,"Software developers, applications & systems software",108786,2029.69
+2016,"Miscellaneous mathematical science occupations, including mathematicians & statisticians",89059.1,15593.8
+2016,Biomedical & agricultural engineers,99136.8,28028.2
+2016,"Miscellaneous engineers, including nuclear engineers",106401,9259.22
+2016,"Medical scientists, & life scientists, all other",99878.7,42849.4
+2016,"Miscellaneous social scientists, including survey researchers & sociologists",46444.7,56455.3
+2016,Chemical technicians,82622.2,0
+2016,"Geological & petroleum technicians, & nuclear technicians",66326.2,19100
+2016,"Miscellaneous life, physical, & social science technicians, including social science research assistants",46189.5,16670.2
+2016,"Miscellaneous community & social service specialists, including health educators & community health workers",78795.1,10869.1
+2016,"Lawyers, & judges, magistrates, & other judicial workers",176844,28524.6
+2016,"Other education, training, & library workers",51390.1,11574.5
+2016,"Broadcast & sound engineering technicians & radio operators, & media & communication equipment workers, all other",39923.2,15263.4
+2016,"Other therapists, including exercise physiologists",21913.8,20322
+2016,Nurse practitioners & nurse midwives,106529,10740.2
+2016,Miscellaneous law enforcement workers,145093,1.07E-11
+2016,"Lifeguards & other recreational, & all other protective service workers",30227.6,5.98E-12
+2016,"Miscellaneous food preparation & serving related workers, including dining room & cafeteria attendants & bartender helpers",5274.82,3701.6
+2016,Janitors & building cleaners,22005.9,5391.15
+2016,Embalmers & funeral attendants,90682.9,0
+2016,Correspondence clerks & order clerks,69151.8,60188.1
+2016,"Miscellaneous office & administrative support workers, including desktop publishers",43990.9,5667.06
+2016,"Miscellaneous agricultural workers, including animal breeders",25721,12807.4
+2016,"Construction equipment operators except paving, surfacing, & tamping equipment operators",50641.3,29874.4
+2016,"Miscellaneous extraction workers, including roof bolters & helpers",50836,2200.9
+2016,"Miscellaneous construction workers, including solar photovoltaic installers, septic tank servicers & sewer pipe cleaners",90682.9,1.20E-11
+2016,Industrial & refractory machinery mechanics,61042.6,16806.1
+2016,"Miscellaneous installation, maintenance, & repair workers, including wind turbine service technicians",48945.1,7360.3
+2016,"Model makers, patternmakers, & molding machine setters, metal & plastic",42721.7,5.98E-12
+2016,"Miscellaneous metal workers & plastic workers, including multiple machine tool setters",32442.2,3913.27
+2016,"Miscellaneous production workers, including semiconductor processors",38634.6,10723.7
+2016,"Subway, streetcar, & other rail transportation workers",74561.5,0
+2016,"Conveyor operators & tenders, & hoist & winch operators",53402.2,7.57E-12
+2016,"Miscellaneous material moving workers, including mine shuttle car operators, & tank car, truck, & ship loaders",53402.2,9.27E-12

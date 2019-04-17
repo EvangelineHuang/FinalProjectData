@@ -1,0 +1,776 @@
+year,naics_name,avg_wage,avg_wage_moe
+2014,Construction,75677.7,11073.9
+2014,Construction,75677.7,11073.9
+2014,Construction,75677.7,11073.9
+2014,Management of companies & enterprises,112973,19321.8
+2014,Farming,71487.9,33894.6
+2014,Animal production & aquaculture,33951.2,17040.1
+2014,"Fishing, hunting & trapping",8681.22,2449.06
+2014,Support activities for agriculture & forestry,110903,82817.9
+2014,Oil & gas extraction,104705,36515.6
+2014,Support activities for mining,134934,34146.5
+2014,Furniture & related product manufacturing,75196.9,15612.6
+2014,Furniture & home furnishings stores,76552.4,14559.6
+2014,Gasoline stations,59307,15707.2
+2014,Air transportation,91040.5,18222.3
+2014,Rail transportation,81628.5,13782.9
+2014,Water transportation,96250.5,27842.9
+2014,Truck transportation,60110.8,14092
+2014,Pipeline transportation,83715.3,35077.7
+2014,Scenic & sightseeing transportation,36601.4,35878.4
+2014,Services incidental to transportation,68862.5,11295.2
+2014,Postal Service,62735.5,9633.87
+2014,Couriers & messengers,76612.7,18177.1
+2014,Warehousing & storage,78792.9,28998.6
+2014,Broadcasting (except internet),75105.4,12487.7
+2014,Insurance carriers & related activities,89893.5,5387.04
+2014,Real estate,68721.4,7787.27
+2014,Waste management & remediation services,57425.1,12970.1
+2014,Hospitals,85003.9,7394.96
+2014,"Performing arts, spectator sports & related industries",81393.1,18542.9
+2014,"Museums, art galleries, historical sites, & similar institutions",52306.6,10303.9
+2014,Private households,30560.6,12966.2
+2014,Administration of human resource programs,68366.1,6352.87
+2014,Logging,86433.1,65159.5
+2014,Coal mining,74933.7,16931.5
+2014,Metal ore mining,647409,7.42E-11
+2014,Nonmetallic mineral mining & quarrying,79434.8,21778.4
+2014,Sugar & confectionery products,53634.7,27307.1
+2014,Fruit & vegetable preserving & specialty food manufacturing,95576.9,40022.3
+2014,Dairy product manufacturing,160848,44043.7
+2014,Animal slaughtering & processing,81423.8,19765.3
+2014,Beverage manufacturing,102009,15808.5
+2014,"Fiber, yarn, & thread mills",81682.4,1.61E-11
+2014,Cut & sew apparel manufacturing,62677.6,26140.1
+2014,Sawmills & wood preservation,57772.4,45051.9
+2014,"Pulp, paper, & paperboard mills ",81922.3,12813.5
+2014,Printing & related support activities,84128.1,15063.5
+2014,"Resin, synthetic rubber, & fibers & filaments manufacturing   ",17143.2,0
+2014,Agricultural chemical manufacturing,93709.2,17483.6
+2014,Pharmaceutical & medicine manufacturing,99804.5,14302.5
+2014,"Paint, coating, & adhesive manufacturing ",84347.8,8696.84
+2014,"Soap, cleaning compound, & cosmetics manufacturing ",61294.3,22794.6
+2014,Plastics product manufacturing,76317.7,18010.3
+2014,Glass & glass product manufacturing,83683.2,55985.2
+2014,Miscellaneous nonmetallic mineral product manufacturing,36102.4,37467
+2014,Aluminum production & processing,168092,88469.6
+2014,Nonferrous metal (except aluminum) production & processing,107015,111674
+2014,Foundries,149254,106964
+2014,Metal forgings & stampings,27569.9,2492.86
+2014,Cutlery & hand tool manufacturing,43890.5,20199.7
+2014,"Machine shops; turned product; screw, nut & bolt manufacturing  ",60069,9282.1
+2014,"Coating, engraving, heat treating & allied activities ",82979,32276.4
+2014,Commercial & service industry machinery manufacturing,74276.2,10801.9
+2014,Metalworking machinery manufacturing,71449.8,34300.3
+2014,"Engine, turbine, & power transmission equipment manufacturing ",81581,11996.4
+2014,Computer & peripheral equipment manufacturing,131773,11733
+2014,"Navigational, measuring, electromedical, & control instruments manufacturing",100038,5980.37
+2014,Household appliance manufacturing,89247.3,9445.09
+2014,Ship & boat building,84444.7,16849.3
+2014,Other transportation equipment manufacturing,80799.6,39206.6
+2014,Medical equipment & supplies manufacturing,109545,19613.2
+2014,Motor vehicle & motor vehicle parts & supplies merchant wholesalers,75529.5,42930.6
+2014,Furniture & home furnishing merchant wholesalers,78283.3,42994.1
+2014,Lumber & other construction materials merchant wholesalers,46623.7,10228.7
+2014,Professional & commercial equipment & supplies merchant wholesalers,107468,12856.6
+2014,Metals & minerals (except petroleum) merchant wholesalers,110287,49742
+2014,Household appliances & electrical & electronic goods merchant wholesalers,88882.5,17869.4
+2014,"Hardware, & plumbing & heating equipment, & supplies merchant wholesalers",90177.6,47939.8
+2014,"Machinery, equipment, & supplies merchant wholesalers     ",88916.7,19673.3
+2014,Paper & paper products merchant wholesalers,94243,22391.2
+2014,"Apparel, piece goods, & notions merchant wholesalers",132008,53365.5
+2014,Grocery & related product merchant wholesalers,54771.7,15246.7
+2014,Farm product raw material merchant wholesalers,29491,27553.5
+2014,Petroleum & petroleum products merchant wholesalers,107569,20580.9
+2014,Alcoholic beverages merchant wholesalers,65709,17443.5
+2014,Wholesale electronic markets & agents & brokers,52099.9,14139.8
+2014,Car Dealers,78549,17924.3
+2014,Other motor vehicle dealers,45633.1,6660.4
+2014,"Automotive parts, accessories, & tire stores  ",33151.4,7631.66
+2014,Lawn & garden equipment & supplies stores,111571,83862.4
+2014,Grocery Stores,49130.3,10939.3
+2014,Specialty food stores,42920.8,27527
+2014,"Beer, wine, & liquor stores ",38058.3,13171.6
+2014,Clothing stores,61294.3,13429.1
+2014,"Jewelry, luggage, & leather goods stores ",78761.5,25732.7
+2014,Miscellaneous general merchandise stores,65201.6,38779
+2014,Retail florists,12995.2,11077.3
+2014,Used merchandise stores,66307.6,36576.8
+2014,Miscellaneous retail stores,54337.2,18880.6
+2014,Vending machine operators,77285,36730.5
+2014,Taxi & limousine service,26640.8,27272.5
+2014,Software publishing,122691,8572.07
+2014,Motion pictures & video industries,71516.1,14385
+2014,Sound recording industries,95195.3,21157.7
+2014,Wired telecommunications carriers,90991.9,6250.56
+2014,"Data processing, hosting & related services",91900.8,8689.8
+2014,Automotive equipment rental & leasing,41444.5,11063.6
+2014,Legal services,106418,19050.7
+2014,"Accounting, tax preparation, bookkeeping & payroll services",95476.1,16016.6
+2014,"Architectural, engineering & related services",93755.6,6156.81
+2014,Specialized design services,67534.1,11858.2
+2014,Computer Systems Design,97921.7,2221.69
+2014,"Management, scientific & technical consulting services",104285,6995.69
+2014,Scientific research & development services,102050,13648.2
+2014,"Advertising, public relations & related services",90397.4,9909.85
+2014,Employment services,68719.2,9881.94
+2014,Business support services,71308.2,12808.3
+2014,Travel arrangements & reservation services,86934,17421.3
+2014,Investigation & security services,59447,13680.5
+2014,Elementary & secondary schools,52010.4,3836.22
+2014,Offices of physicians,122059,27190.6
+2014,Offices of dentists,144525,48393.2
+2014,Outpatient care centers,68202.1,9939.98
+2014,Home health care services,51288.4,14229.4
+2014,Nursing Care Facilities,47619.8,8542.67
+2014,Individual & family services,38429.7,6032.07
+2014,"Community food & housing, & emergency services ",34904.1,15474.4
+2014,Vocational rehabilitation services,32024.9,23499.3
+2014,Child day care services,33906.4,6322.62
+2014,Traveler accommodation,47049,11094.5
+2014,"Drinking places, alcoholic beverages ",34986.6,16400.8
+2014,Electronic & precision equipment repair and maintenance,43841.5,11194.5
+2014,Commercial & industrial machinery & equipment repair & maintenance,69546.8,25755.9
+2014,Personal & household goods repair & maintenance,27949.7,13336.4
+2014,"Funeral homes, & cemeteries & crematories ",34543.1,17275
+2014,Drycleaning & laundry services,34603.5,20030.1
+2014,Other personal services,63472,20254.2
+2014,Religious organizations,44502.6,8617.04
+2014,Sewage treatment facilities,87764.6,10376.6
+2014,Carpet & rug mills,45828.4,6503.42
+2014,Paperboard container manufacturing,74426.5,15413.1
+2014,Petroleum refining,108992,23480.9
+2014,Tire manufacturing,72288.8,16408.6
+2014,Agricultural implement manufacturing,85347.8,32407.2
+2014,Recyclable material merchant wholesalers,75295.7,19810
+2014,Hardware stores,42100.3,21031.7
+2014,Pharmacies & drug stores,70976.1,27830.5
+2014,Shoe stores,113099,52261.8
+2014,"Sewing, needlework, & piece goods stores ",17637.2,9673.73
+2014,Musical instrument & supplies stores,74623.5,0
+2014,Book stores & news dealers,216675,139255
+2014,Department stores & discount stores,47245,7958.77
+2014,Office supplies & stationery stores,56776,33742.9
+2014,"Gift, novelty, & souvenir shops",36435.4,16823
+2014,Other direct selling establishments,50351.2,18851.9
+2014,Newspaper publishers,63554.2,19581.3
+2014,Libraries & archives,42781.3,9991.85
+2014,"Internet publishing, broadcasting & web search portals",164596,26106.4
+2014,Video tape & disk rental,303642,136908
+2014,Veterinary services,66256.3,33681.8
+2014,Landscaping services,38332.4,12906.6
+2014,Offices of chiropractors,30176.6,16328.4
+2014,Offices of optometrists,215895,132620
+2014,Bowling centers,40337,0
+2014,Labor unions,83108,21573.3
+2014,Public finance activities,83777.4,6740.38
+2014,Other general government & support,70811.9,18380.7
+2014,Retail bakeries,14510.6,8518.88
+2014,Household appliance stores,50756.6,597.582
+2014,Electronics stores,100187,11234.2
+2014,Electronic shopping,122917,15008.3
+2014,Electronic auctions,111096,29710.2
+2014,Mail-order houses,96129.4,24573.3
+2014,Fuel dealers,71438.1,12633.6
+2014,Car washes,49980.7,1391.98
+2014,Barber shops,35294.9,0
+2014,Beauty salons,15340.5,5735.47
+2014,Forestry except logging,60505.5,2.00E-11
+2014,"Electric power generation, transmission & distribution",100717,11324.6
+2014,Natural gas distribution,91962.2,32734.3
+2014,"Water, steam, air-conditioning, & irrigation systems",68282.2,12420.5
+2014,"Electric & gas, and other combinations",86171.6,20591.6
+2014,Not specified utilities,65298.5,26582.5
+2014,"Bakeries & tortilla manufacturing, except retail bakeries",77351.3,19852.1
+2014,"Animal food, grain & oilseed milling",71555.1,33714
+2014,"Seafood & other miscellaneous foods, n.e.c. ",75415.9,34273.6
+2014,"Fabric mills, except knitting mills",60711.4,24445.6
+2014,"Textile product mills, except carpets & rugs ",82968.9,38253.2
+2014,"Leather tanning & finishing, & other allied products manufacturing ",42353.9,3.78E-12
+2014,Miscellaneous wood products,76220.1,29218.3
+2014,Miscellaneous paper & pulp products,65646.4,15689.4
+2014,Miscellaneous petroleum & coal products,90472.8,37042.6
+2014,Industrial & miscellaneous chemicals,90562.4,13950.3
+2014,"Rubber products, except tires, manufacturing ",53597.8,15410.1
+2014,"Cement, concrete, lime, & gypsum product manufacturing ",67298.2,26394.2
+2014,Iron & steel mills & steel product manufacturing,84386.2,21594.1
+2014,Ordnance,40337,0
+2014,"Structural metals, & boiler, tank, & shipping container manufacturing ",82833.1,19958.8
+2014,Miscellaneous fabricated metal products manufacturing,83222.3,20438.3
+2014,"Construction, & mining & oil & gas field machinery manufacturing ",75148.9,18605.5
+2014,"Machinery manufacturing, n.e.c. or not specified",73130.8,7932.13
+2014,"Communications, & audio & video equipment manufacturing",124150,12682
+2014,"Electronic component & product manufacturing, n.e.c. ",120790,12519.8
+2014,"Electric lighting & electrical equipment manufacturing, & other electrical component manufacturing, n.e.c.",86238.4,16981.6
+2014,Aircraft & parts manufacturing,91636.4,10535.3
+2014,Aerospace products & parts manufacturing,110028,8971.02
+2014,Motor vehicles & motor vehicle equipment manufacturing,88033.7,8068.82
+2014,"Sporting & athletic goods, & doll, toy & game manufacturing  ",88538.4,16834.2
+2014,"Miscellaneous manufacturing, n.e.c.  ",72063.3,13877.2
+2014,Not specified manufacturing industries,61506.8,10706.5
+2014,Miscellaneous durable goods merchant wholesalers,99072,40085.1
+2014,Miscellaneous nondurable goods merchant wholesalers,68793.5,27889.3
+2014,"Drugs, sundries, & chemical & allied products merchant  wholesalers ",90402.4,16442.9
+2014,Not specified wholesale trade,111154,52218.3
+2014,Building material & supplies dealers,60138.7,10615.6
+2014,"Health & personal care, except drug, stores ",69247.4,11075.4
+2014,"Sporting goods, and hobby & toy stores ",66572.1,26912.5
+2014,Bus service & urban transit,67730.2,16493.1
+2014,Not specified retail trade,54705.9,17564.2
+2014,"Periodical, book, & directory publishers",80997.1,9396.13
+2014,"Telecommunications, except wired telecommunications carriers ",102190,11458.2
+2014,"Other information services, except libraries & archives, & internet publishing & broadcasting & web search portals",147841,19351
+2014,"Savings institutions, including credit unions ",69754.2,10409.5
+2014,Nondepository credit & related activities,96401.7,8537.47
+2014,Banking & related activities,100501,5537.64
+2014,"Securities, commodities, funds, trusts & other financial investments",120019,9684.66
+2014,Other consumer goods rental,86116,50103.8
+2014,"Commercial, industrial & other intangible assets rental & leasing",94732.7,26994.8
+2014,"Other professional, scientific & technical services ",99449.5,30148.9
+2014,Services to buildings & dwellings (except cleaning during construction & immediately after construction),61582.4,25559.7
+2014,Other administrative & other support services,100335,21326.5
+2014,"Colleges, universities & professional schools, including junior colleges",57396.8,2765.47
+2014,"Business, technical & trade schools and training",84527,17602.8
+2014,Other schools & instruction and educational support services,58417.3,15727.2
+2014,Offices of other health practitioners,56567.2,32278.4
+2014,Other health care services,73739.1,9123.69
+2014,"Residential care facilities, except skilled nursing facilities",33048.6,12922.8
+2014,Amusement & Recreation,61302.8,15657.7
+2014,Recreational vehicle parks & camps and rooming & boarding houses,19869.9,19926.7
+2014,Restaurants & Food Services,39043.5,6432.97
+2014,Automotive repair & maintenance,61792.4,31329.3
+2014,Nail salons & other personal care services,45240.6,21298.3
+2014,"Business, professional, political, & similar organizations",91512.2,11327.6
+2014,"Civic, social, advocacy organizations, & grantmaking & giving services",70554.1,12455.1
+2014,Executive offices & legislative bodies,77266.1,5996.02
+2014,U. S. Army,66956.2,10947.7
+2014,U. S. Air Force,71078.7,8862.13
+2014,U. S. Navy,71586.7,17035.2
+2014,U. S. Marines,77554.4,27310.6
+2014,U. S Coast Guard,74384.9,8722.57
+2014,U. S. Armed Forces: Branch Not Specified,92305.3,19731.8
+2014,National security & international affairs,91471.7,4776.56
+2014,Administration of environmental quality & housing programs,102528,42365
+2014,Administration of economic programs & space research,86320.4,9090.73
+2014,"Justice, public order, & safety activities ",70739.5,5231.56
+2015,Construction,60917.6,6132.99
+2015,Construction,60917.6,6132.99
+2015,Construction,60917.6,6132.99
+2015,Management of companies & enterprises,93227,15017
+2015,Management of companies & enterprises,93227,15017
+2015,Farming,30922.1,17344.1
+2015,Animal production & aquaculture,69125.2,37070.2
+2015,"Fishing, hunting & trapping",102129,9.27E-12
+2015,Support activities for agriculture & forestry,75763.1,27476.8
+2015,Oil & gas extraction,93339.3,26086.3
+2015,Support activities for mining,140928,52771
+2015,Furniture & related product manufacturing,55048.4,11190.1
+2015,Furniture & home furnishings stores,69119.2,16506.7
+2015,Gasoline stations,53852.4,21017.6
+2015,Air transportation,81345,11039.7
+2015,Rail transportation,86820.8,18778.4
+2015,Water transportation,74552.2,47676.9
+2015,Truck transportation,73058.3,13774.4
+2015,Pipeline transportation,153720,85162.1
+2015,Scenic & sightseeing transportation,40050.6,2.68E-12
+2015,Services incidental to transportation,69596.5,13390.3
+2015,Postal Service,51601.9,6548.37
+2015,Couriers & messengers,54483.1,9911.68
+2015,Warehousing & storage,79546.2,43781.6
+2015,Broadcasting (except internet),95967.9,11651.4
+2015,Insurance carriers & related activities,93899.5,4279
+2015,Real estate,88698.4,20606.9
+2015,Waste management & remediation services,79161.9,28001.1
+2015,Hospitals,77783.2,4871.63
+2015,"Performing arts, spectator sports & related industries",51808.4,12803.3
+2015,"Museums, art galleries, historical sites, & similar institutions",53079.6,12405.7
+2015,Private households,16650.4,8548.81
+2015,Administration of human resource programs,71215.2,5357.24
+2015,Logging,115341,31124
+2015,Coal mining,86340.7,15255.5
+2015,Metal ore mining,97656.9,22999.3
+2015,Nonmetallic mineral mining & quarrying,95873.1,14210.9
+2015,Sugar & confectionery products,97431.7,7309.99
+2015,Fruit & vegetable preserving & specialty food manufacturing,81079.6,12778.3
+2015,Dairy product manufacturing,76759.7,26792.4
+2015,Animal slaughtering & processing,67252,24119.6
+2015,Beverage manufacturing,107645,33611.2
+2015,Tobacco manufacturing,86722.7,12693.9
+2015,"Fiber, yarn, & thread mills",115145,5.38E-11
+2015,Textile & fabric finishing & coating mills,26032.9,2.99E-12
+2015,Cut & sew apparel manufacturing,134165,69463.4
+2015,Sawmills & wood preservation,47461,31524.8
+2015,"Veneer, plywood, & engineered wood products ",97122.6,1.69E-11
+2015,"Pulp, paper, & paperboard mills ",122308,47217.9
+2015,Printing & related support activities,57911.4,10725.8
+2015,"Resin, synthetic rubber, & fibers & filaments manufacturing   ",58929.9,24612.3
+2015,Agricultural chemical manufacturing,70942.7,9976.08
+2015,Pharmaceutical & medicine manufacturing,117868,13075.3
+2015,"Paint, coating, & adhesive manufacturing ",111874,64705.7
+2015,"Soap, cleaning compound, & cosmetics manufacturing ",100179,35503.5
+2015,Plastics product manufacturing,85113.5,12799.1
+2015,Glass & glass product manufacturing,93202.9,41625
+2015,Miscellaneous nonmetallic mineral product manufacturing,87131.7,32185.4
+2015,Nonferrous metal (except aluminum) production & processing,76239.1,22375
+2015,Foundries,95869,26925.2
+2015,Metal forgings & stampings,58391.9,3849.58
+2015,Cutlery & hand tool manufacturing,49349,19545.7
+2015,"Machine shops; turned product; screw, nut & bolt manufacturing  ",58545.5,17244.6
+2015,"Coating, engraving, heat treating & allied activities ",99272.8,34572.3
+2015,Commercial & service industry machinery manufacturing,87651.6,15712.1
+2015,Metalworking machinery manufacturing,77732.1,25265.6
+2015,"Engine, turbine, & power transmission equipment manufacturing ",82734.2,16944
+2015,Computer & peripheral equipment manufacturing,119564,11165.6
+2015,"Navigational, measuring, electromedical, & control instruments manufacturing",96426.8,6343.73
+2015,Household appliance manufacturing,221464,155269
+2015,Railroad rolling stock manufacturing,82765.2,21809.9
+2015,Ship & boat building,86391.5,25676.6
+2015,Other transportation equipment manufacturing,56251.8,35011.9
+2015,Medical equipment & supplies manufacturing,101176,14552.3
+2015,Motor vehicle & motor vehicle parts & supplies merchant wholesalers,79631.8,28345.7
+2015,Furniture & home furnishing merchant wholesalers,74248.9,27629
+2015,Lumber & other construction materials merchant wholesalers,86771.7,70064
+2015,Professional & commercial equipment & supplies merchant wholesalers,93496.2,9271.42
+2015,Metals & minerals (except petroleum) merchant wholesalers,79347.5,15453.3
+2015,Household appliances & electrical & electronic goods merchant wholesalers,87359.1,13689.6
+2015,"Hardware, & plumbing & heating equipment, & supplies merchant wholesalers",97406.3,16891.3
+2015,"Machinery, equipment, & supplies merchant wholesalers     ",69793.3,15148.4
+2015,Paper & paper products merchant wholesalers,90444.4,36318.7
+2015,"Apparel, piece goods, & notions merchant wholesalers",81892.4,21281.4
+2015,Grocery & related product merchant wholesalers,71111.3,14264
+2015,Farm product raw material merchant wholesalers,74451.8,24108.8
+2015,Petroleum & petroleum products merchant wholesalers,101854,44846.1
+2015,Alcoholic beverages merchant wholesalers,78030.9,13497.1
+2015,Wholesale electronic markets & agents & brokers,30033.4,39063.6
+2015,Car Dealers,95179.3,23536.5
+2015,Other motor vehicle dealers,67532.6,55847.8
+2015,"Automotive parts, accessories, & tire stores  ",73051,23789
+2015,Lawn & garden equipment & supplies stores,37538.4,12750.1
+2015,Grocery Stores,46640.3,8518.36
+2015,Specialty food stores,87341.9,37015
+2015,"Beer, wine, & liquor stores ",27907,14080.1
+2015,Clothing stores,70875.6,18023.7
+2015,"Jewelry, luggage, & leather goods stores ",67422.8,77173.5
+2015,Miscellaneous general merchandise stores,66971.9,52598
+2015,Retail florists,103786,83847.4
+2015,Used merchandise stores,38836.6,24589.9
+2015,Miscellaneous retail stores,55835.1,15558
+2015,Vending machine operators,58149.9,44731.2
+2015,Taxi & limousine service,52176.6,24924.2
+2015,Software publishing,126406,10575
+2015,Motion pictures & video industries,86085.5,15041.1
+2015,Sound recording industries,44843.8,18542.4
+2015,Wired telecommunications carriers,96714.9,6981.52
+2015,"Data processing, hosting & related services",98971.2,8419.41
+2015,Automotive equipment rental & leasing,85782,20069.5
+2015,Legal services,91240.4,11827.8
+2015,"Accounting, tax preparation, bookkeeping & payroll services",93111.3,11161.3
+2015,"Architectural, engineering & related services",89229.4,7072.94
+2015,Specialized design services,85635.5,26921.7
+2015,Computer Systems Design,98867.8,2154.37
+2015,"Management, scientific & technical consulting services",107731,7051
+2015,Scientific research & development services,99484,8057.36
+2015,"Advertising, public relations & related services",87295.9,10109.5
+2015,Employment services,72027,8932.23
+2015,Business support services,58537,12010.3
+2015,Travel arrangements & reservation services,96520.2,14304.1
+2015,Investigation & security services,60582.8,11706.5
+2015,Elementary & secondary schools,49904.2,2640.32
+2015,Offices of physicians,110294,24552.8
+2015,Offices of dentists,100674,65467.7
+2015,Outpatient care centers,60752.9,13573.5
+2015,Home health care services,41895.3,13908.5
+2015,Nursing Care Facilities,100934,38555.7
+2015,Individual & family services,44476.6,7386.07
+2015,"Community food & housing, & emergency services ",51407.4,25465.9
+2015,Vocational rehabilitation services,64608.9,47269.4
+2015,Child day care services,21094.2,6713.93
+2015,Traveler accommodation,59998.3,12147.5
+2015,"Drinking places, alcoholic beverages ",30037.9,6.13E-12
+2015,Electronic & precision equipment repair and maintenance,66493.8,21201.2
+2015,Commercial & industrial machinery & equipment repair & maintenance,75054.4,39383.9
+2015,Personal & household goods repair & maintenance,25492.5,31776.8
+2015,"Funeral homes, & cemeteries & crematories ",22817.6,11695
+2015,Drycleaning & laundry services,56945.7,42661
+2015,Other personal services,53147.5,17754
+2015,Religious organizations,49313.9,9274.92
+2015,Sewage treatment facilities,91625.5,15466.7
+2015,Carpet & rug mills,31239.4,5.83E-12
+2015,Paperboard container manufacturing,17822.5,0
+2015,Petroleum refining,104305,31412
+2015,Tire manufacturing,73707.6,31589.8
+2015,"Pottery, ceramics, & plumbing fixture manufacturing  ",60075.8,8.03E-12
+2015,Agricultural implement manufacturing,85207.8,23946
+2015,Recyclable material merchant wholesalers,51475.8,2987.28
+2015,Farm supplies merchant wholesalers,83280.1,41387
+2015,Hardware stores,47180.2,37218.7
+2015,Pharmacies & drug stores,76350.7,13633.7
+2015,Shoe stores,78981.9,25441
+2015,"Sewing, needlework, & piece goods stores ",3677.16,4514.53
+2015,Musical instrument & supplies stores,75952.2,41524.3
+2015,Book stores & news dealers,45996.4,21169.1
+2015,Department stores & discount stores,47978.1,8427.1
+2015,Office supplies & stationery stores,55714.1,20883.3
+2015,"Gift, novelty, & souvenir shops",35173,20787.2
+2015,Other direct selling establishments,110312,55098.2
+2015,Newspaper publishers,72377.5,24341.6
+2015,Libraries & archives,59807.3,22246.1
+2015,"Internet publishing, broadcasting & web search portals",171349,20222
+2015,Video tape & disk rental,227967,121047
+2015,Veterinary services,57625.3,33198.4
+2015,Landscaping services,19622.9,6428.78
+2015,Offices of chiropractors,48267.8,47499.5
+2015,Offices of optometrists,43775.6,30446.5
+2015,Labor unions,65136.7,40583.7
+2015,Public finance activities,85498,13213.7
+2015,Other general government & support,75381.8,14471
+2015,Retail bakeries,20232.2,3259.43
+2015,Clay building material & refractories manufacturing,115145,2.21E-11
+2015,Household appliance stores,45030.9,6838.44
+2015,Electronics stores,95478.8,13437.7
+2015,Electronic shopping,91738.6,12328.9
+2015,Electronic auctions,117916,12391
+2015,Mail-order houses,95929.2,31795.5
+2015,Fuel dealers,48461.2,23828.9
+2015,Car washes,16542.4,6912.9
+2015,Barber shops,17194.9,14140
+2015,Beauty salons,35881,32907.8
+2015,Forestry except logging,51064.5,8.88E-12
+2015,"Electric power generation, transmission & distribution",97807.1,11139.6
+2015,Natural gas distribution,76604.7,15177
+2015,"Water, steam, air-conditioning, & irrigation systems",77165.3,32261.2
+2015,"Electric & gas, and other combinations",78325.2,12690
+2015,Not specified utilities,61829.4,35016.7
+2015,"Bakeries & tortilla manufacturing, except retail bakeries",73001.4,50640.8
+2015,"Animal food, grain & oilseed milling",56723.1,12828.3
+2015,"Seafood & other miscellaneous foods, n.e.c. ",68192.4,23728.1
+2015,"Not specified food industries, manufacturing",10074.8,3644.2
+2015,"Fabric mills, except knitting mills",83630.5,15244.5
+2015,"Textile product mills, except carpets & rugs ",113452,35395.1
+2015,"Knitting fabric mills, & apparel knitting mills ",62859.5,18226.6
+2015,Prefabricated wood buildings & mobile homes,64171.9,23856.9
+2015,Miscellaneous wood products,62451.6,28356.1
+2015,Miscellaneous paper & pulp products,121853,28786.2
+2015,Miscellaneous petroleum & coal products,75094.8,1.20E-11
+2015,Industrial & miscellaneous chemicals,124994,27353.2
+2015,"Rubber products, except tires, manufacturing ",57116.1,39473.2
+2015,"Cement, concrete, lime, & gypsum product manufacturing ",54772,15526.4
+2015,Iron & steel mills & steel product manufacturing,82611.1,8257.4
+2015,Ordnance,88888.4,8997.82
+2015,"Structural metals, & boiler, tank, & shipping container manufacturing ",73957.9,25510.1
+2015,Miscellaneous fabricated metal products manufacturing,64906,13721
+2015,"Construction, & mining & oil & gas field machinery manufacturing ",96667.2,13086.6
+2015,"Machinery manufacturing, n.e.c. or not specified",78500,14696.6
+2015,"Communications, & audio & video equipment manufacturing",115184,15743.9
+2015,"Electronic component & product manufacturing, n.e.c. ",138798,15093
+2015,"Electric lighting & electrical equipment manufacturing, & other electrical component manufacturing, n.e.c.",85551.7,13991.6
+2015,Aircraft & parts manufacturing,105057,9561.03
+2015,Motor vehicles & motor vehicle equipment manufacturing,81908.8,5689.2
+2015,Aerospace products & parts manufacturing,102454,12417.9
+2015,"Sporting & athletic goods, & doll, toy & game manufacturing  ",83166.6,16865.5
+2015,"Miscellaneous manufacturing, n.e.c.  ",86639.9,13055.2
+2015,Not specified manufacturing industries,82741,27026
+2015,Miscellaneous durable goods merchant wholesalers,81715.4,27438.1
+2015,Miscellaneous nondurable goods merchant wholesalers,64883.6,11894.4
+2015,"Drugs, sundries, & chemical & allied products merchant  wholesalers ",85247.8,13147.5
+2015,Not specified wholesale trade,22027.8,2.68E-12
+2015,Building material & supplies dealers,61946.2,20518.4
+2015,"Health & personal care, except drug, stores ",54354.4,15079.2
+2015,"Sporting goods, and hobby & toy stores ",59926.2,15063.6
+2015,Bus service & urban transit,88618.8,36937.6
+2015,Not specified retail trade,88818.3,20091.6
+2015,"Periodical, book, & directory publishers",85921.8,10237.6
+2015,"Telecommunications, except wired telecommunications carriers ",99823.5,11552.3
+2015,"Other information services, except libraries & archives, & internet publishing & broadcasting & web search portals",147552,31289.6
+2015,"Savings institutions, including credit unions ",120779,33270.5
+2015,Nondepository credit & related activities,115776,12244.7
+2015,Banking & related activities,102652,5486.39
+2015,"Securities, commodities, funds, trusts & other financial investments",144605,13492.4
+2015,Other consumer goods rental,66171.3,24154.8
+2015,"Commercial, industrial & other intangible assets rental & leasing",98704.4,22646.8
+2015,"Other professional, scientific & technical services ",71348.9,12603.5
+2015,Services to buildings & dwellings (except cleaning during construction & immediately after construction),44484.2,15362.7
+2015,Other administrative & other support services,80667.3,14282.8
+2015,"Colleges, universities & professional schools, including junior colleges",59489.8,3105.33
+2015,"Business, technical & trade schools and training",51615.7,9427.49
+2015,Other schools & instruction and educational support services,49805.7,7906.78
+2015,Offices of other health practitioners,27597,11299.3
+2015,Other health care services,87337.8,9975.59
+2015,"Residential care facilities, except skilled nursing facilities",34985.9,6499.51
+2015,Amusement & Recreation,74320.9,20257.9
+2015,Recreational vehicle parks & camps and rooming & boarding houses,116064,92719.5
+2015,Restaurants & Food Services,41902.5,6056.34
+2015,Automotive repair & maintenance,57001.7,15042.2
+2015,Nail salons & other personal care services,56925.6,20560.2
+2015,"Business, professional, political, & similar organizations",126806,40166.9
+2015,"Civic, social, advocacy organizations, & grantmaking & giving services",60990.6,12747.7
+2015,Executive offices & legislative bodies,73009.5,4346.67
+2015,U. S. Army,66399,11900.9
+2015,U. S. Air Force,71266.5,14475.1
+2015,U. S. Navy,76866.4,14435.2
+2015,U. S. Marines,72167.4,9960.84
+2015,U. S Coast Guard,56336.9,31092.7
+2015,U. S. Armed Forces: Branch Not Specified,59670.2,16144.7
+2015,National security & international affairs,91808,6516.95
+2015,Administration of environmental quality & housing programs,93020,20797.6
+2015,Administration of economic programs & space research,99607.1,10792.5
+2015,"Justice, public order, & safety activities ",72984,4737
+2016,Construction,66236.8,7568.79
+2016,Construction,66236.8,7568.79
+2016,Construction,66236.8,7568.79
+2016,Management of companies & enterprises,120663,20427.2
+2016,Management of companies & enterprises,120663,20427.2
+2016,Farming,86271.6,24746.8
+2016,Animal production & aquaculture,36838.6,16649.8
+2016,Support activities for agriculture & forestry,76114.5,39596.1
+2016,Oil & gas extraction,118858,33556.3
+2016,Support activities for mining,95091.5,19219.7
+2016,Furniture & related product manufacturing,54311.4,15883.9
+2016,Furniture & home furnishings stores,74848.2,46112.6
+2016,Gasoline stations,58116.6,31828.4
+2016,Air transportation,95223.7,18975.4
+2016,Rail transportation,99089.5,13582.3
+2016,Water transportation,82801.1,74907.2
+2016,Truck transportation,60764.1,9024.59
+2016,Pipeline transportation,82534.8,23148.4
+2016,Scenic & sightseeing transportation,25189.7,5.83E-12
+2016,Services incidental to transportation,75713.6,11388.4
+2016,Postal Service,70408.5,18944.8
+2016,Couriers & messengers,67001,11617.6
+2016,Warehousing & storage,69928.2,17787.6
+2016,Broadcasting (except internet),86039.3,6729.37
+2016,Insurance carriers & related activities,94034.6,4691.1
+2016,Real estate,80127.9,11045.1
+2016,Waste management & remediation services,46462.9,24662.6
+2016,Hospitals,81369.4,5569.53
+2016,"Performing arts, spectator sports & related industries",81874.2,28253.2
+2016,"Museums, art galleries, historical sites, & similar institutions",39772.2,14316.3
+2016,Private households,15504,10033.1
+2016,Administration of human resource programs,76014.6,8748.58
+2016,Logging,24887.4,4.64E-12
+2016,Coal mining,72546.3,0
+2016,Metal ore mining,66081.4,14555.2
+2016,Nonmetallic mineral mining & quarrying,83620.9,38751.7
+2016,Sugar & confectionery products,85192.3,20744.1
+2016,Fruit & vegetable preserving & specialty food manufacturing,65444.5,22228.1
+2016,Animal slaughtering & processing,118351,38541.1
+2016,Beverage manufacturing,91917.3,41693.2
+2016,Tobacco manufacturing,86218.6,13144.7
+2016,Cut & sew apparel manufacturing,94240.4,27454.9
+2016,Footwear manufacturing,123889,73784.5
+2016,Sawmills & wood preservation,81821.7,41269
+2016,"Veneer, plywood, & engineered wood products ",66220.6,16645.9
+2016,"Pulp, paper, & paperboard mills ",124446,35346.7
+2016,Printing & related support activities,86640.3,16583.9
+2016,"Resin, synthetic rubber, & fibers & filaments manufacturing   ",51341,14686.2
+2016,Agricultural chemical manufacturing,27013.8,32893.2
+2016,Pharmaceutical & medicine manufacturing,111128,14141.7
+2016,"Paint, coating, & adhesive manufacturing ",128976,33123.2
+2016,"Soap, cleaning compound, & cosmetics manufacturing ",131760,50919.9
+2016,Plastics product manufacturing,62620,15700.2
+2016,Glass & glass product manufacturing,50134.2,26758
+2016,Miscellaneous nonmetallic mineral product manufacturing,93688,20774.2
+2016,Aluminum production & processing,126711,113397
+2016,Nonferrous metal (except aluminum) production & processing,78490.1,40932.3
+2016,Foundries,75573.8,36731.5
+2016,"Machine shops; turned product; screw, nut & bolt manufacturing  ",58403.8,28807.3
+2016,"Coating, engraving, heat treating & allied activities ",62380.2,10330.9
+2016,Commercial & service industry machinery manufacturing,142342,28906
+2016,Metalworking machinery manufacturing,66185.6,20077
+2016,"Engine, turbine, & power transmission equipment manufacturing ",76358.3,54089.6
+2016,Computer & peripheral equipment manufacturing,127775,19660.8
+2016,"Navigational, measuring, electromedical, & control instruments manufacturing",122243,20109.5
+2016,Household appliance manufacturing,92175.4,11626.8
+2016,Railroad rolling stock manufacturing,87540.6,25869.8
+2016,Ship & boat building,63803.7,24314.5
+2016,Other transportation equipment manufacturing,84527.6,32235.4
+2016,Medical equipment & supplies manufacturing,126879,18435.2
+2016,Motor vehicle & motor vehicle parts & supplies merchant wholesalers,101203,28828.5
+2016,Furniture & home furnishing merchant wholesalers,70161.8,42053.5
+2016,Lumber & other construction materials merchant wholesalers,73012.6,26680.2
+2016,Professional & commercial equipment & supplies merchant wholesalers,106857,13466.4
+2016,Metals & minerals (except petroleum) merchant wholesalers,89333.2,8733.67
+2016,Household appliances & electrical & electronic goods merchant wholesalers,126224,23554.2
+2016,"Hardware, & plumbing & heating equipment, & supplies merchant wholesalers",74411.5,19352.9
+2016,"Machinery, equipment, & supplies merchant wholesalers     ",125704,48315.4
+2016,Paper & paper products merchant wholesalers,83832.9,28070.8
+2016,"Apparel, piece goods, & notions merchant wholesalers",92521.9,32295
+2016,Grocery & related product merchant wholesalers,65235.6,9685.33
+2016,Farm product raw material merchant wholesalers,82564.6,36092
+2016,Petroleum & petroleum products merchant wholesalers,81172.6,26501.2
+2016,Alcoholic beverages merchant wholesalers,83097.2,26840.7
+2016,Wholesale electronic markets & agents & brokers,52651.3,14679.2
+2016,Car Dealers,69328.8,12025.6
+2016,Other motor vehicle dealers,50913.6,19679.1
+2016,"Automotive parts, accessories, & tire stores  ",73894.5,26144
+2016,Lawn & garden equipment & supplies stores,85892.9,33826.5
+2016,Grocery Stores,48068.4,8319.89
+2016,Specialty food stores,38929.4,13364
+2016,"Beer, wine, & liquor stores ",53708,30381.4
+2016,Clothing stores,82910.3,21040.3
+2016,"Jewelry, luggage, & leather goods stores ",50699.5,17534.7
+2016,Miscellaneous general merchandise stores,50674.1,21804.1
+2016,Retail florists,15113.8,6.62E-12
+2016,Used merchandise stores,70231,35312.8
+2016,Miscellaneous retail stores,62122.4,21970.4
+2016,Vending machine operators,19345.7,3.54E-12
+2016,Taxi & limousine service,43073.9,19759.5
+2016,Software publishing,134388,18157.9
+2016,Motion pictures & video industries,82038.6,10388.1
+2016,Sound recording industries,63452,46068.6
+2016,Wired telecommunications carriers,95049.7,6358.41
+2016,"Data processing, hosting & related services",104343,10006.9
+2016,Automotive equipment rental & leasing,57723.8,35818.7
+2016,Legal services,129856,23837.2
+2016,"Accounting, tax preparation, bookkeeping & payroll services",100144,19222.7
+2016,"Architectural, engineering & related services",100018,7740.91
+2016,Specialized design services,71989.4,15604.4
+2016,Computer Systems Design,107482,2127.27
+2016,"Management, scientific & technical consulting services",102562,4980.59
+2016,Scientific research & development services,110034,12007.5
+2016,"Advertising, public relations & related services",93061.9,7959.55
+2016,Employment services,58832,8120.79
+2016,Business support services,69677.8,10526
+2016,Travel arrangements & reservation services,95459.6,21483.6
+2016,Investigation & security services,72696.6,16395.1
+2016,Elementary & secondary schools,54970.7,2658.76
+2016,Offices of physicians,107608,23623.5
+2016,Offices of dentists,97590.2,59493.5
+2016,Outpatient care centers,66213.2,11459.1
+2016,Home health care services,55466.1,14332.8
+2016,Nursing Care Facilities,48783.8,10516.2
+2016,Individual & family services,46806,5980.84
+2016,"Community food & housing, & emergency services ",45654.5,16477.5
+2016,Vocational rehabilitation services,34259.5,10799.7
+2016,Child day care services,26464,7082.63
+2016,Traveler accommodation,57047.8,11926.5
+2016,"Drinking places, alcoholic beverages ",35740.5,13062.8
+2016,Electronic & precision equipment repair and maintenance,62411.4,9956.79
+2016,Commercial & industrial machinery & equipment repair & maintenance,51231.5,26316.5
+2016,Personal & household goods repair & maintenance,19771.5,9431.42
+2016,"Funeral homes, & cemeteries & crematories ",165376,116916
+2016,Drycleaning & laundry services,24865.7,7600.07
+2016,Other personal services,48014.8,17099.4
+2016,Religious organizations,47369.8,7085.74
+2016,Sewage treatment facilities,36057.8,33500.4
+2016,Carpet & rug mills,75569.1,5.35E-12
+2016,Paperboard container manufacturing,46044.9,7242.77
+2016,Petroleum refining,126298,35059.5
+2016,Tire manufacturing,79456.9,22579.9
+2016,"Pottery, ceramics, & plumbing fixture manufacturing  ",84680.3,33376.4
+2016,Agricultural implement manufacturing,120766,88119.8
+2016,Recyclable material merchant wholesalers,40087.5,19753.5
+2016,Hardware stores,72161.8,29868.1
+2016,Pharmacies & drug stores,77725.5,12225.3
+2016,Shoe stores,43138.5,11621.4
+2016,"Sewing, needlework, & piece goods stores ",12091.1,2.22E-12
+2016,Musical instrument & supplies stores,71241.9,37524.4
+2016,Book stores & news dealers,59971.9,20238.6
+2016,Department stores & discount stores,64152.4,11589.3
+2016,Office supplies & stationery stores,52532,25097.8
+2016,"Gift, novelty, & souvenir shops",23658.3,11698.3
+2016,Other direct selling establishments,97385.3,51729.8
+2016,Newspaper publishers,53926.5,12569.6
+2016,Libraries & archives,36692,9547.19
+2016,"Internet publishing, broadcasting & web search portals",188398,18678.3
+2016,Video tape & disk rental,172398,83806.3
+2016,Veterinary services,54107.8,34449.3
+2016,Landscaping services,55266.8,14169.2
+2016,Offices of chiropractors,98600.4,46262.1
+2016,Offices of optometrists,75193.4,24126.5
+2016,Labor unions,43024,6.56E-12
+2016,Public finance activities,78721.3,17748
+2016,Other general government & support,83297.2,16309.5
+2016,Retail bakeries,35265.6,9.27E-12
+2016,Clay building material & refractories manufacturing,67508.4,0
+2016,Household appliance stores,67959.3,21655.9
+2016,Electronics stores,106782,15929.4
+2016,Electronic shopping,113837,11042.5
+2016,Electronic auctions,161569,31305.2
+2016,Mail-order houses,88851,18485.7
+2016,Fuel dealers,50379.4,2.50E-11
+2016,Car washes,48990.3,22646.8
+2016,Barber shops,10075.9,1.34E-12
+2016,Beauty salons,47524.8,39374.7
+2016,Forestry except logging,30227.6,1.47E-11
+2016,"Electric power generation, transmission & distribution",101543,9219.88
+2016,Natural gas distribution,93274.2,15307.9
+2016,"Water, steam, air-conditioning, & irrigation systems",78639.5,27417.2
+2016,"Electric & gas, and other combinations",105214,9610.57
+2016,Not specified utilities,63025.7,15425.7
+2016,"Bakeries & tortilla manufacturing, except retail bakeries",67781.6,24649.1
+2016,"Animal food, grain & oilseed milling",81435,34774.2
+2016,"Seafood & other miscellaneous foods, n.e.c. ",97242.5,43133.1
+2016,"Not specified food industries, manufacturing",90104.3,30053.7
+2016,"Fabric mills, except knitting mills",122979,55931.8
+2016,"Textile product mills, except carpets & rugs ",103165,31349.4
+2016,"Knitting fabric mills, & apparel knitting mills ",43518.8,36113.7
+2016,Prefabricated wood buildings & mobile homes,120911,2.57E-11
+2016,Miscellaneous wood products,65283.1,12623.4
+2016,Miscellaneous paper & pulp products,127564,52331.2
+2016,Miscellaneous petroleum & coal products,95517.1,25955.3
+2016,Industrial & miscellaneous chemicals,102200,23784.3
+2016,"Rubber products, except tires, manufacturing ",90812.4,10494.8
+2016,"Cement, concrete, lime, & gypsum product manufacturing ",61683.1,28213.1
+2016,Iron & steel mills & steel product manufacturing,82156.9,22139.8
+2016,Ordnance,48401,17970.7
+2016,"Structural metals, & boiler, tank, & shipping container manufacturing ",84288.9,19285.5
+2016,Miscellaneous fabricated metal products manufacturing,71579.1,11440.5
+2016,"Construction, & mining & oil & gas field machinery manufacturing ",90630.8,16492.5
+2016,"Machinery manufacturing, n.e.c. or not specified",80440.8,8107.21
+2016,"Communications, & audio & video equipment manufacturing",139478,21774.2
+2016,"Electronic component & product manufacturing, n.e.c. ",129625,8896.93
+2016,"Electric lighting & electrical equipment manufacturing, & other electrical component manufacturing, n.e.c.",88684.8,12125.7
+2016,Aircraft & parts manufacturing,102724,7384.65
+2016,Aerospace products & parts manufacturing,101270,11205.8
+2016,Motor vehicles & motor vehicle equipment manufacturing,85275.4,7952.64
+2016,"Sporting & athletic goods, & doll, toy & game manufacturing  ",122161,51903.8
+2016,"Miscellaneous manufacturing, n.e.c.  ",84767.4,20521
+2016,Not specified metal industries,70531.2,0
+2016,Not specified manufacturing industries,75361.4,12551.5
+2016,Miscellaneous durable goods merchant wholesalers,77386.9,22939.7
+2016,Miscellaneous nondurable goods merchant wholesalers,97333.7,50494.8
+2016,"Drugs, sundries, & chemical & allied products merchant  wholesalers ",93024.5,12371
+2016,Not specified wholesale trade,88695.2,40354.1
+2016,Building material & supplies dealers,60574,24716.7
+2016,"Health & personal care, except drug, stores ",63106.1,37275.8
+2016,"Sporting goods, and hobby & toy stores ",79373.3,30563.1
+2016,Bus service & urban transit,57481.6,18768.8
+2016,Not specified retail trade,51704.8,13337.8
+2016,"Periodical, book, & directory publishers",87375.7,11801.7
+2016,"Telecommunications, except wired telecommunications carriers ",103759,12578.6
+2016,"Other information services, except libraries & archives, & internet publishing & broadcasting & web search portals",172345,47619.4
+2016,"Savings institutions, including credit unions ",79719.7,10524.1
+2016,Nondepository credit & related activities,103098,8322.6
+2016,Banking & related activities,102045,5264.28
+2016,"Securities, commodities, funds, trusts & other financial investments",132497,10700.4
+2016,Other consumer goods rental,97843.3,58282.5
+2016,"Commercial, industrial & other intangible assets rental & leasing",136567,43034.6
+2016,"Other professional, scientific & technical services ",85356.5,12914.8
+2016,Services to buildings & dwellings (except cleaning during construction & immediately after construction),40519.5,12870.5
+2016,Other administrative & other support services,98039.2,23640.3
+2016,"Colleges, universities & professional schools, including junior colleges",62037.1,3802.49
+2016,"Business, technical & trade schools and training",61747,21651.6
+2016,Other schools & instruction and educational support services,69761.1,9580.45
+2016,Offices of other health practitioners,26712.3,19781.5
+2016,Other health care services,91705.5,10725.4
+2016,"Residential care facilities, except skilled nursing facilities",38957.5,12097.5
+2016,Amusement & Recreation,63338.4,10642.8
+2016,Recreational vehicle parks & camps and rooming & boarding houses,23547.5,9056.25
+2016,Restaurants & Food Services,43184.2,5599.23
+2016,Automotive repair & maintenance,48706.6,14075.9
+2016,Nail salons & other personal care services,38310.3,24596.1
+2016,"Business, professional, political, & similar organizations",91921.4,25972.8
+2016,"Civic, social, advocacy organizations, & grantmaking & giving services",75532,8097.88
+2016,Executive offices & legislative bodies,75266.2,3658.6
+2016,U. S. Army,61954.8,8810.62
+2016,U. S. Air Force,66964.1,8347.08
+2016,U. S. Navy,59515.1,14789.7
+2016,U. S. Marines,73010.9,18455
+2016,U. S Coast Guard,145093,1.07E-11
+2016,U. S. Armed Forces: Branch Not Specified,80737,18867.7
+2016,Military Reserves or National Guard,75569.1,1.20E-11
+2016,National security & international affairs,91368,4235.09
+2016,Administration of environmental quality & housing programs,78058.6,18916.4
+2016,Administration of economic programs & space research,85843.7,8062.08
+2016,"Justice, public order, & safety activities ",67410.2,5641.28
